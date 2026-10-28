@@ -1,0 +1,1517 @@
+full_name,language,stars,forks,stars_period,description,timeframe
+sansan0/TrendRadar,Python,36604,19908,1067,🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点,daily
+google/adk-go,Go,5920,396,118,"An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",daily
+TapXWorld/ChinaTextbook,Roff,60750,13494,226,所有小初高、大学PDF教材。,daily
+yeongpin/cursor-free-vip,Python,44916,5365,250,[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.,daily
+nvm-sh/nvm,Shell,90205,9641,67,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,daily
+traefik/traefik,Go,60083,5692,109,The Cloud Native Application Proxy,daily
+HKUDS/LightRAG,Python,25252,3627,141,"[EMNLP2025] ""LightRAG: Simple and Fast Retrieval-Augmented Generation""",daily
+bobeff/open-source-games,Unknown,10009,749,282,A list of open source games.,daily
+volcengine/verl,Python,17145,2731,66,verl: Volcano Engine Reinforcement Learning for LLMs,daily
+MemoriLabs/Memori,Python,9043,650,231,"Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems",daily
+yangshun/tech-interview-handbook,TypeScript,135805,16291,125,Curated coding interview preparation materials for busy software engineers,daily
+microsoft/call-center-ai,Python,5789,645,129,"Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!",daily
+MustardChef/WSABuilds,Python,14482,2064,65,Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.,daily
+playcanvas/engine,JavaScript,13970,1666,107,"Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF",daily
+iptv-org/iptv,TypeScript,104408,4661,196,Collection of publicly available IPTV channels from all over the world,daily
+Zie619/n8n-workflows,Python,46505,5145,222,all of the workflows of n8n i could find (also from the site itself),daily
+milvus-io/milvus,Go,41312,3679,112,"Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",daily
+wolfpld/tracy,C++,14638,954,62,Frame profiler,daily
+usestrix/strix,Python,16398,1629,2288,Open-source AI agents for penetration testing,weekly
+666ghj/BettaFish,Python,30638,5877,1082,微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。,weekly
+Skyvern-AI/skyvern,Python,19365,1671,510,Automate browser based workflows with AI,weekly
+nocobase/nocobase,TypeScript,20492,2282,336,NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.,weekly
+sansan0/TrendRadar,Python,36604,19908,7513,🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点,weekly
+opencloud-eu/opencloud,Go,4272,149,173,🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.,weekly
+lima-vm/lima,Go,19561,779,196,"Linux virtual machines, with a focus on running containers",weekly
+mudler/LocalAI,Go,39673,3152,421,"🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",weekly
+ayn2op/discordo,Go,4637,150,438,"A lightweight, secure, and feature-rich Discord terminal (TUI) client.",weekly
+NginxProxyManager/nginx-proxy-manager,TypeScript,30201,3432,260,"Docker container for managing Nginx proxy hosts with a simple, powerful interface",weekly
+containerd/containerd,Go,19924,3715,111,An open and reliable container runtime,weekly
+sst/opentui,TypeScript,5808,221,249,OpenTUI is a library for building terminal user interfaces (TUIs),weekly
+prometheus/alertmanager,Go,8233,2368,63,Prometheus Alertmanager,weekly
+kvcache-ai/ktransformers,Python,16103,1173,155,A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations,weekly
+modelcontextprotocol/go-sdk,Go,3283,292,81,The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.,weekly
+dbeaver/dbeaver,Java,47570,3959,297,Free universal database tool and SQL client,weekly
+topoteretes/cognee,Python,9634,881,451,Memory for AI Agents in 6 lines of code,weekly
+mountain-loop/yaak,TypeScript,16605,616,1772,"The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",monthly
+microsoft/agent-lightning,Python,9312,749,3388,The absolute trainer to light up AI agents.,monthly
+usestrix/strix,Python,16398,1629,13755,Open-source AI agents for penetration testing,monthly
+longbridge/gpui-component,Rust,8936,344,2126,Rust GUI components for building fantastic cross-platform desktop application by using GPUI.,monthly
+anthropics/claude-cookbooks,Jupyter Notebook,28969,2921,2197,A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.,monthly
+lfnovo/open-notebook,TypeScript,11879,1203,2445,An Open Source implementation of Notebook LM with more flexibility and features,monthly
+jingyaogong/minimind,Python,35073,4104,2825,🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!,monthly
+karpathy/nanoGPT,Python,50466,8435,1774,"The simplest, fastest repository for training/finetuning medium-sized GPTs.",monthly
+minio/minio,Go,58855,6515,1178,"MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",monthly
+PaddlePaddle/PaddleOCR,Python,65696,9456,3369,"Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",monthly
+cjpais/Handy,TypeScript,7665,505,2341,"A free, open source, and extensible speech-to-text application that works completely offline.",monthly
+coinbase/x402,TypeScript,4820,836,1160,A payments protocol for the internet. Built on HTTP.,monthly
+yeongpin/cursor-free-vip,Python,44916,5365,5309,[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.,monthly
+LadybirdBrowser/ladybird,C++,56220,2515,1403,Truly independent web browser,monthly
+mudler/LocalAI,Go,39673,3152,3497,"🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",monthly
+Skyvern-AI/skyvern,Python,19365,1671,3991,Automate browser based workflows with AI,monthly
+volcengine/MineContext,Python,4379,304,1159,MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）,monthly
+sansan0/TrendRadar,Python,36604,19908,30879,🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点,monthly
+lzhoang2801/OpCore-Simplify,Python,3466,328,77,A tool designed to simplify the creation of OpenCore EFI,daily
+volcengine/MineContext,Python,4379,304,61,MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）,daily
+google/adk-python,Python,15998,2542,45,"An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",daily
+MODSetter/SurfSense,Python,10926,892,40,"Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more. Join our Discord: https://discord.gg/ejRNvftDp9",daily
+RLinf/RLinf,Python,1543,146,14,"RLinf is a flexible and scalable open-source infrastructure designed for post-training foundation models (LLMs, VLMs, VLAs) via reinforcement learning.",daily
+thinking-machines-lab/tinker-cookbook,Python,2291,198,19,Post-training with Tinker,daily
+googlefonts/googlesans-code,Python,1927,47,3,The Google Sans Code font family,daily
+google-agentic-commerce/AP2,Python,2549,347,10,Building a Secure and Interoperable Future for AI-Driven Payments.,daily
+AtsushiSakai/PythonRobotics,Python,27162,7040,32,Python sample codes and textbook for robotics algorithms.,daily
+droidrun/droidrun,Python,6624,680,332,Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖,weekly
+coleam00/ottomator-agents,Python,5013,1789,49,All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!,weekly
+AtsushiSakai/PythonRobotics,Python,27162,7040,312,Python sample codes and textbook for robotics algorithms.,weekly
+HKUDS/DeepCode,Python,11327,1529,457,"""DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)""",weekly
+microsoft/call-center-ai,Python,5789,645,1020,"Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!",weekly
+thinking-machines-lab/tinker-cookbook,Python,2291,198,73,Post-training with Tinker,weekly
+airweave-ai/airweave,Python,5307,640,38,Context retrieval for AI agents across apps and databases,weekly
+localstack/localstack,Python,63451,4456,219,💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline,weekly
+yichuan-w/LEANN,Python,4877,480,289,"RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",weekly
+google/adk-python,Python,15998,2542,347,"An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",weekly
+GeeeekExplorer/nano-vllm,Python,9443,1168,195,Nano vLLM,weekly
+lzhoang2801/OpCore-Simplify,Python,3466,328,623,A tool designed to simplify the creation of OpenCore EFI,weekly
+droidrun/droidrun,Python,6624,680,1373,Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖,monthly
+langchain-ai/deepagents,Python,6717,1024,1553,"Deepagents is an agent harness built on langchain and langgraph. Deep agents are equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - making them well-equipped to handle complex agentic tasks.",monthly
+reflex-dev/reflex,Python,27749,1663,457,🕸️ Web apps in pure Python 🐍,monthly
+allenai/olmocr,Python,16135,1241,496,Toolkit for linearizing PDFs for LLM datasets/training,monthly
+huggingface/lerobot,Python,19915,3183,934,🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning,monthly
+thinking-machines-lab/tinker-cookbook,Python,2291,198,901,Post-training with Tinker,monthly
+suitenumerique/docs,Python,14920,471,645,"A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.",monthly
+fishaudio/fish-speech,Python,24249,1983,342,SOTA Open Source TTS,monthly
+lzhoang2801/OpCore-Simplify,Python,3466,328,1453,A tool designed to simplify the creation of OpenCore EFI,monthly
+tinygrad/tinygrad,Python,30778,3758,301,You like pytorch? You like micrograd? You love tinygrad! ❤️,monthly
+hpcaitech/Open-Sora,Python,28041,2796,362,Open-Sora: Democratizing Efficient Video Production for All,monthly
+Blaizzy/mlx-vlm,Python,1901,213,103,MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.,monthly
+datawhalechina/all-in-rag,Python,2031,937,797,🔍大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/,monthly
+serverless-dns/serverless-dns,JavaScript,3239,2158,8,"The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io",daily
+davila7/claude-code-templates,JavaScript,12149,1059,55,CLI tool for configuring and monitoring Claude Code,daily
+WordPress/gutenberg,JavaScript,11467,4623,3,The Block Editor project for WordPress and beyond. Plugin is available from the official repository.,daily
+jaywcjlove/awesome-mac,JavaScript,94708,7121,80," Now we have become very big, Different from the original idea. Collect premium software in various categories.",daily
+open-webui/open-webui,Svelte,116879,16418,108,"User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",daily
+github/awesome-copilot,JavaScript,13396,1582,98,"Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",daily
+projectdiscovery/nuclei-templates,JavaScript,11452,3190,6,Community curated list of templates for the nuclei engine to find security vulnerabilities.,daily
+jgraph/drawio-desktop,JavaScript,58220,5516,33,Official electron build of draw.io,daily
+ryanmcdermott/clean-code-javascript,JavaScript,94110,12497,10,Clean Code concepts adapted for JavaScript,daily
+openwrt/luci,JavaScript,7275,2741,4,LuCI - OpenWrt Configuration Interface,daily
+academind/react-complete-guide-course-resources,JavaScript,3645,2797,6,"React - The Complete Guide Course Resources (Code, Attachments, Slides)",daily
+airbnb/javascript,JavaScript,147946,26794,17,JavaScript Style Guide,daily
+Wei-Shaw/claude-relay-service,JavaScript,5804,962,40,CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。,daily
+algorithm-visualizer/algorithm-visualizer,JavaScript,48245,7555,14,🎆Interactive Online Platform that Visualizes Algorithms from Code,daily
+sveltejs/svelte,JavaScript,85017,4696,100,web development for the rest of us,weekly
+github/awesome-copilot,JavaScript,13396,1582,600,"Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",weekly
+mui/material-ui,TypeScript,97400,32790,72,Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.,weekly
+open-webui/open-webui,Svelte,116879,16418,632,"User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",weekly
+gorhill/uBlock,JavaScript,60093,3843,129,uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.,weekly
+ConardLi/easy-dataset,JavaScript,12142,1164,130,A powerful tool for creating fine-tuning datasets for LLM,weekly
+4ian/GDevelop,JavaScript,18140,1165,182,"🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",weekly
+blackmatrix7/ios_rule_script,JavaScript,23498,3761,131,分流规则、重写写规则及脚本。,weekly
+mrdoob/three.js,JavaScript,109653,36129,137,JavaScript 3D Library.,weekly
+HeyPuter/puter,JavaScript,37583,3238,137,"🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.",weekly
+CesiumGS/cesium,JavaScript,14546,3711,58,An open-source JavaScript library for world-class 3D globes and maps 🌎,weekly
+marko-js/marko,JavaScript,14237,664,13,"A declarative, HTML-based language that makes building web apps fun",weekly
+leukipp/touchkio,JavaScript,877,40,33,Home Assistant Touch Panel Kiosk application for a Linux device (e.g. Raspberry Pi) with Touch Display.,weekly
+qeeqbox/social-analyzer,JavaScript,19716,1794,525,"API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites",weekly
+axios/axios,JavaScript,108310,11447,58,Promise based HTTP client for the browser and node.js,weekly
+cv-cat/Spider_XHS,JavaScript,3429,600,178,小红书爬虫数据采集，小红书全域运营解决方案,weekly
+davila7/claude-code-templates,JavaScript,12149,1059,2173,CLI tool for configuring and monitoring Claude Code,monthly
+microsoft/Web-Dev-For-Beginners,JavaScript,94535,14821,901,"24 Lessons, 12 Weeks, Get Started as a Web Developer",monthly
+usebruno/bruno,JavaScript,39069,1991,907,Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia),monthly
+qeeqbox/social-analyzer,JavaScript,19716,1794,2694,"API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites",monthly
+harvard-edge/cs249r_book,JavaScript,10230,1075,2296,Introduction to Machine Learning Systems,monthly
+louislam/uptime-kuma,JavaScript,79252,7048,1691,A fancy self-hosted monitoring tool,monthly
+jaywcjlove/awesome-mac,JavaScript,94708,7121,2443," Now we have become very big, Different from the original idea. Collect premium software in various categories.",monthly
+hmjz100/LinkSwift,JavaScript,9366,457,1423,一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘,monthly
+cv-cat/Spider_XHS,JavaScript,3429,600,405,小红书爬虫数据采集，小红书全域运营解决方案,monthly
+ConardLi/easy-dataset,JavaScript,12142,1164,615,A powerful tool for creating fine-tuning datasets for LLM,monthly
+projectdiscovery/nuclei-templates,JavaScript,11452,3190,208,Community curated list of templates for the nuclei engine to find security vulnerabilities.,monthly
+drawdb-io/drawdb,JavaScript,35045,2697,439,"Free, simple, and intuitive online database diagram editor and SQL generator.",monthly
+Wei-Shaw/claude-relay-service,JavaScript,5804,962,1005,CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。,monthly
+sveltejs/svelte,JavaScript,85017,4696,675,web development for the rest of us,monthly
+sveltejs/kit,JavaScript,20019,2163,163,"web development, streamlined",monthly
+JannisX11/blockbench,JavaScript,4827,376,166,Blockbench - A low poly 3D model editor,monthly
+jellyfin/jellyfin-web,JavaScript,3206,1706,84,The Free Software Media System - Official Web Client,monthly
+CesiumGS/cesium,JavaScript,14546,3711,163,An open-source JavaScript library for world-class 3D globes and maps 🌎,monthly
+zed-industries/extensions,JavaScript,1350,1033,61,Extensions for the Zed editor,monthly
+requestly/requestly,TypeScript,5590,512,21,Free and open-source API Client & Interceptor.,daily
+kubernetes-sigs/headlamp,TypeScript,4999,479,14,"A Kubernetes web UI that is fully-featured, user-friendly and extensible",daily
+angular/angular,TypeScript,99448,26840,20,Deliver web apps with confidence 🚀,daily
+google-gemini/gemini-cli,TypeScript,85667,9765,160,An open-source AI agent that brings the power of Gemini directly into your terminal.,daily
+vendure-ecommerce/vendure,TypeScript,6874,1229,9,"The most customizable commerce platform built with TypeScript, NestJS and GraphQL.",daily
+firecrawl/firecrawl,TypeScript,69034,5403,76,🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data,daily
+plait-board/drawnix,TypeScript,12619,1017,19,"开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",daily
+stan-smith/FossFLOW,TypeScript,13560,859,15,Make beautiful isometric infrastructure diagrams,daily
+farion1231/cc-switch,TypeScript,5660,362,78,"A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",daily
+Dokploy/dokploy,TypeScript,27511,1793,47,"Open Source Alternative to Vercel, Netlify and Heroku.",daily
+google/adk-web,TypeScript,735,175,5,Agent Development Kit Web (adk web) is the built-in developer UI that is integrated with Agent Development Kit for easier agent development and debugging.,daily
+freeCodeCamp/freeCodeCamp,TypeScript,434010,42675,102,"freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",daily
+modelcontextprotocol/modelcontextprotocol,TypeScript,6469,1145,14,Specification and documentation for the Model Context Protocol,daily
+portainer/portainer,TypeScript,35587,2731,17,Making Docker and Kubernetes management easy.,daily
+vercel/vercel,TypeScript,14458,3208,5,Develop. Preview. Ship.,daily
+clash-verge-rev/clash-verge-rev,TypeScript,85328,6291,1308,"A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",weekly
+simstudioai/sim,TypeScript,18665,2524,104,Open-source platform to build and deploy AI agent workflows.,weekly
+umami-software/umami,TypeScript,33921,5986,169,"Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.",weekly
+yangshun/tech-interview-handbook,TypeScript,135805,16291,985,Curated coding interview preparation materials for busy software engineers,weekly
+farion1231/cc-switch,TypeScript,5660,362,516,"A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",weekly
+cloudflare/vibesdk,TypeScript,3311,882,119,"An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack",weekly
+vuetifyjs/vuetify,TypeScript,40825,7128,17,🐉 Vue Component Framework,weekly
+iptv-org/iptv,TypeScript,104408,4661,1199,Collection of publicly available IPTV channels from all over the world,weekly
+nuxt/nuxt,TypeScript,58987,5448,73,The Progressive Web Framework.,weekly
+resend/react-email,TypeScript,17468,872,101,💌 Build and send emails using React,weekly
+renovatebot/renovate,TypeScript,20226,2847,69,Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io,weekly
+sst/opencode,TypeScript,35053,2898,833,The AI coding agent built for the terminal.,weekly
+supabase/supabase,TypeScript,94000,10889,478,"The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",weekly
+slidevjs/slidev,TypeScript,42012,1803,135,Presentation Slides for Developers,weekly
+nocobase/nocobase,TypeScript,20492,2282,3463,NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.,monthly
+farion1231/cc-switch,TypeScript,5660,362,2655,"A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",monthly
+supermemoryai/supermemory,TypeScript,13700,1438,573,"Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",monthly
+github/docs,TypeScript,18378,64748,278,The open-source repo for docs.github.com,monthly
+toeverything/AFFiNE,TypeScript,60346,4133,1509,"There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",monthly
+gitroomhq/postiz-app,TypeScript,24634,4128,567,"📨 The ultimate social media scheduling tool, with a bunch of AI 🤖",monthly
+umami-software/umami,TypeScript,33921,5986,2606,"Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.",monthly
+devlikeapro/waha,TypeScript,5510,1113,202,"WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)",monthly
+sst/opencode,TypeScript,35053,2898,4528,The AI coding agent built for the terminal.,monthly
+renovatebot/renovate,TypeScript,20226,2847,264,Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io,monthly
+elie222/inbox-zero,TypeScript,9506,1110,294,The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.,monthly
+payloadcms/payload,TypeScript,39177,3155,720,"Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",monthly
+ourongxing/newsnow,TypeScript,14839,4451,1315,Elegant reading of real-time and hottest news,monthly
+ayangweb/BongoCat,TypeScript,14149,665,1784,🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！,monthly
+chaitin/PandaWiki,TypeScript,8281,740,964,PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。,monthly
+sst/opentui,TypeScript,5808,221,2530,OpenTUI is a library for building terminal user interfaces (TUIs),monthly
+daytonaio/daytona,TypeScript,35109,2732,8130,Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code,monthly
+google/adk-java,Java,1040,218,4,"An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",daily
+ashishps1/awesome-low-level-design,Java,19868,4910,18,Learn Low Level Design (LLD) and prepare for interviews using free resources.,daily
+cabaletta/baritone,Java,8414,1728,2,google maps for block game,daily
+alibaba/spring-ai-alibaba,Java,7307,1567,10,Agentic AI Framework for Java Developers,daily
+jd-opensource/joyagent-jdgenie,Java,11250,1365,35,开源的端到端产品级通用智能体,daily
+kekingcn/kkFileView,Java,13686,3161,5,Universal File Online Preview Project based on Spring-Boot,daily
+testcontainers/testcontainers-java,Java,8511,1766,0,"Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",daily
+CodePhiliaX/Chat2DB,Java,24760,2700,12,"🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",daily
+ashishps1/awesome-system-design-resources,Java,27973,6471,13,Learn System Design concepts and prepare for interviews using free resources.,daily
+modelcontextprotocol/java-sdk,Java,2940,750,4,The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI,daily
+spring-projects/spring-framework,Java,59291,38861,6,Spring Framework,daily
+ageerle/ruoyi-ai,Java,4473,1089,12,RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。,daily
+flyway/flyway,Java,9340,1575,4,Flyway by Redgate • Database Migrations Made Easy.,daily
+PaperMC/Paper,Java,11724,3134,2,"The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",daily
+OpenAPITools/openapi-generator,Java,25361,7313,12,"OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",daily
+Card-Forge/forge,Java,2028,792,6,An unofficial rules engine for the world's greatest card game.,daily
+spring-projects/spring-boot,Java,79225,41692,13,"Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",daily
+spring-projects/spring-ai-examples,Java,992,414,6,,daily
+1Panel-dev/CordysCRM,Java,1264,239,154,🔥 新一代的开源 AI CRM 系统。An open-source AI CRM alternative to Salesforce.,weekly
+google/adk-java,Java,1040,218,66,"An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",weekly
+Jigsaw-Code/Intra,Java,1962,349,14,An experimental tool that allows you to test new DNS-over-HTTPS services on Android,weekly
+cabaletta/baritone,Java,8414,1728,26,google maps for block game,weekly
+ashishps1/awesome-leetcode-resources,Java,14374,3180,116,Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.,weekly
+ashishps1/awesome-low-level-design,Java,19868,4910,206,Learn Low Level Design (LLD) and prepare for interviews using free resources.,weekly
+binarywang/WxJava,Java,32228,9011,27,微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发,weekly
+apache/doris,Java,14677,3623,31,"Apache Doris is an easy-to-use, high performance and unified analytics database.",weekly
+ashishps1/awesome-system-design-resources,Java,27973,6471,150,Learn System Design concepts and prepare for interviews using free resources.,weekly
+spring-projects/spring-boot,Java,79225,41692,107,"Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",weekly
+material-components/material-components-android,Java,17047,3199,17,Modular and customizable Material Design UI components for Android,weekly
+apache/kafka,Java,31441,14811,55,Mirror of Apache Kafka,weekly
+skylot/jadx,Java,46371,5354,124,Dex to Java decompiler,weekly
+xuxueli/xxl-job,Java,29632,11397,30,A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）,weekly
+xiaojieonly/Ehviewer_CN_SXJ,Java,21011,563,119,ehviewer，用爱发电，快乐前行,weekly
+itwanger/paicoding,Java,2891,572,19,⭐️一款好用又强大的开源社区，基于 Spring Boot、MyBatis-Plus、MySQL、Redis、ElasticSearch、MongoDB、Docker、RabbitMQ 等主流技术栈，附详细教程，包括Java、Spring、MySQL、Redis、微服务&分布式、消息队列等核心知识点。学编程，就上技术派😁。,weekly
+bazelbuild/bazel,Java,24855,4353,40,"a fast, scalable, multi-language and extensible build system",weekly
+opensearch-project/OpenSearch,Java,11991,2338,45,🔎 Open source distributed and RESTful search engine.,weekly
+kafbat/kafka-ui,Java,1772,219,35,Open-Source Web UI for managing Apache Kafka clusters,weekly
+google/guava,Java,51313,11111,27,Google core libraries for Java,weekly
+apache/paimon,Java,3100,1225,7,Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.,weekly
+Anuken/Mindustry,Java,25875,3310,289,The automation tower defense RTS,monthly
+1Panel-dev/CordysCRM,Java,1264,239,869,🔥 新一代的开源 AI CRM 系统。An open-source AI CRM alternative to Salesforce.,monthly
+apache/fory,Java,4094,341,151,A blazingly fast multi-language serialization framework powered by JIT and zero-copy.,monthly
+keycloak/keycloak,Java,31412,7867,709,Open Source Identity and Access Management For Modern Applications and Services,monthly
+bazelbuild/bazel,Java,24855,4353,191,"a fast, scalable, multi-language and extensible build system",monthly
+AutoMQ/automq,Java,8352,563,871,AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.,monthly
+testcontainers/testcontainers-java,Java,8511,1766,54,"Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",monthly
+jeecgboot/JeecgBoot,Java,44554,15692,388,🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！ 成熟的AI应用平台：涵盖AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等，兼容多种大模型；提供强大代码生成器：实现前后端一键生成，无需手写代码! 引领AI开发模式：AI生成→在线配置→代码生成→手工合并，解决Java项目80%重复工作，提升效率节省成本，又不失灵活~,monthly
+YunaiV/ruoyi-vue-pro,Java,34442,7428,553,🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！,monthly
+camunda/camunda,Java,3914,724,68,Process Orchestration Framework,monthly
+modelcontextprotocol/java-sdk,Java,2940,750,127,The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI,monthly
+PaperMC/Paper,Java,11724,3134,127,"The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",monthly
+ashishps1/awesome-system-design-resources,Java,27973,6471,722,Learn System Design concepts and prepare for interviews using free resources.,monthly
+termux/termux-app,Java,47411,5594,978,Termux - a terminal emulator application for Android OS extendible by variety of packages.,monthly
+Jigsaw-Code/Intra,Java,1962,349,59,An experimental tool that allows you to test new DNS-over-HTTPS services on Android,monthly
+kafbat/kafka-ui,Java,1772,219,140,Open-Source Web UI for managing Apache Kafka clusters,monthly
+dbeaver/dbeaver,Java,47570,3959,1596,Free universal database tool and SQL client,monthly
+alibaba/spring-ai-alibaba,Java,7307,1567,562,Agentic AI Framework for Java Developers,monthly
+cabaletta/baritone,Java,8414,1728,147,google maps for block game,monthly
+zxing/zxing,Java,33722,9428,94,"ZXing (""Zebra Crossing"") barcode scanning library for Java, Android",monthly
+StarRocks/starrocks,Java,10996,2209,174,"The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.",monthly
+glanceapp/glance,Go,30091,1121,163,A self-hosted dashboard that puts all your feeds in one place,weekly
+keploy/keploy,Go,13480,1843,489,"API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!",weekly
+crossplane/crossplane,Go,11163,1111,44,The Cloud Native Control Plane,weekly
+opencontainers/runc,Go,12879,2239,59,CLI tool for spawning and running containers according to the OCI specification,weekly
+docker/cli,Go,5586,2066,18,The Docker CLI,weekly
+NexaAI/nexa-sdk,Go,6104,793,69,"Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.",weekly
+navidrome/navidrome,Go,17789,1266,131,🎧☁️ Your Personal Streaming Service,weekly
+mudler/edgevpn,Go,1798,176,31,"⛵ The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens",weekly
+moby/moby,Go,71173,18859,48,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,weekly
+alireza0/s-ui,Go,6263,1036,178,An advanced Web Panel • Built for SagerNet/Sing-Box,weekly
+external-secrets/external-secrets,Go,6179,1155,25,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,weekly
+hashicorp/terraform,Go,47188,10134,48,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",weekly
+OpenCSGs/csghub-server,Go,1481,407,3,"csghub-server is the backend server for CSGHub which helps user to manage datasets, modes, and also run Model Inference, Finetune and Application Spaces.",weekly
+cilium/ebpf,Go,7331,793,37,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",weekly
+tailscale/tailscale,Go,26327,2124,160,"The easiest, most secure way to use WireGuard and 2FA.",weekly
+seaweedfs/seaweedfs,Go,27724,2567,658,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",monthly
+prometheus/alertmanager,Go,8233,2368,962,Prometheus Alertmanager,monthly
+juanfont/headscale,Go,33290,1781,870,"An open source, self-hosted implementation of the Tailscale control server",monthly
+go-gitea/gitea,Go,52300,6242,607,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",monthly
+lima-vm/lima,Go,19561,779,1253,"Linux virtual machines, with a focus on running containers",monthly
+putyy/res-downloader,Go,12329,1509,1016,视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!,monthly
+usememos/memos,Go,46731,3348,1160,"An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",monthly
+rclone/rclone,Go,53858,4782,593,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",monthly
+wavetermdev/waveterm,Go,14619,600,1866,"An open-source, cross-platform terminal for seamless workflows",monthly
+tailscale/tailscale,Go,26327,2124,635,"The easiest, most secure way to use WireGuard and 2FA.",monthly
+cloudnative-pg/cloudnative-pg,Go,7479,565,269,"CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",monthly
+v2fly/domain-list-community,Go,6872,1139,218,Community managed domain list. Generate geosite.dat for V2Ray.,monthly
+base/node,Go,68632,3037,84,Everything required to run your own Base node,monthly
+prometheus/prometheus,Go,61564,9970,577,The Prometheus monitoring system and time series database.,monthly
+wailsapp/wails,Go,31485,1530,794,Create beautiful applications using Go,monthly
+helm/helm,Go,29132,7438,339,The Kubernetes Package Manager,monthly
+NexaAI/nexa-sdk,Go,6104,793,520,"Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.",monthly
+gtsteffaniak/filebrowser,Go,5043,217,730,📂 Web File Browser,monthly
+netbirdio/netbird,Go,20017,961,644,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",monthly
+open-telemetry/opentelemetry-collector,Go,6369,1803,176,OpenTelemetry Collector,monthly
+jj-vcs/jj,Rust,22719,826,15,A Git-compatible VCS that is both simple and powerful,daily
+librespot-org/librespot,Rust,6351,783,3,Open Source Spotify client library,daily
+greenbone/openvas-scanner,Rust,4258,742,8,This repository contains the scanner component for Greenbone Community Edition.,daily
+YaLTeR/niri,Rust,15792,563,48,A scrollable-tiling Wayland compositor.,daily
+ai-dynamo/dynamo,Rust,5589,720,7,A Datacenter Scale Distributed Inference Serving Framework,daily
+longbridge/gpui-component,Rust,8936,344,66,Rust GUI components for building fantastic cross-platform desktop application by using GPUI.,daily
+Eventual-Inc/Daft,Rust,4904,353,9,"High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale",daily
+linebender/vello,Rust,3539,201,9,A GPU compute-centric 2D renderer.,daily
+BloopAI/vibe-kanban,Rust,6138,618,16,Kanban board to manage your AI coding agents,daily
+supabase/etl,Rust,2041,126,14,Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines.,daily
+erebe/wstunnel,Rust,6116,491,12,Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available,daily
+nushell/nushell,Rust,37433,1975,12,A new type of shell,daily
+fish-shell/fish-shell,Rust,31752,2173,14,The user-friendly command line shell.,daily
+MystenLabs/sui,Rust,7495,11690,0,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",daily
+Schniz/fnm,Rust,22872,594,14,"🚀 Fast and simple Node.js version manager, built in Rust",daily
+influxdata/influxdb,Rust,30919,3674,8,"Scalable datastore for metrics, events, and real-time analytics",daily
+rustdesk/rustdesk,Rust,103428,15259,56,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",daily
+astral-sh/uv,Rust,74158,2290,97,"An extremely fast Python package and project manager, written in Rust.",daily
+SeaQL/sea-orm,Rust,9077,637,9,🐚 An async & dynamic ORM for Rust,daily
+ankitects/anki,Rust,25031,2629,21,Anki is a smart spaced repetition flashcard program,daily
+regolith-labs/ore,Rust,785,274,3,It's time to mine.,daily
+supabase/etl,Rust,2041,126,40,Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines.,weekly
+ratatui/ratatui,Rust,16456,523,142,A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs,weekly
+cloudflare/quiche,Rust,10980,904,40,🥧 Savoury implementation of the QUIC transport protocol and HTTP/3,weekly
+Eventual-Inc/Daft,Rust,4904,353,53,"High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale",weekly
+atuinsh/atuin,Rust,27299,739,112,✨ Magical shell history,weekly
+cocoindex-io/cocoindex,Rust,3497,283,77,"Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!",weekly
+YaLTeR/niri,Rust,15792,563,347,A scrollable-tiling Wayland compositor.,weekly
+librespot-org/librespot,Rust,6351,783,34,Open Source Spotify client library,weekly
+paradigmxyz/reth,Rust,5184,2164,23,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",weekly
+sigoden/aichat,Rust,8740,570,62,"All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.",weekly
+ClementTsang/bottom,Rust,12377,317,41,Yet another cross-platform graphical process/system monitor.,weekly
+pola-rs/polars,Rust,36379,2499,124,"Extremely fast Query Engine for DataFrames, written in Rust",weekly
+glzr-io/glazewm,Rust,10675,313,83,GlazeWM is a tiling window manager for Windows inspired by i3wm.,weekly
+serde-rs/serde,Rust,10199,873,24,Serialization framework for Rust,weekly
+rust-lang/mdBook,Rust,20730,1793,62,Create book from markdown files. Like Gitbook but implemented in Rust,weekly
+chroma-core/chroma,Rust,24708,1945,109,Open-source search and retrieval database for AI applications.,weekly
+ast-grep/ast-grep,Rust,11515,288,96,"⚡A CLI tool for code structural search, lint and rewriting. Written in Rust",weekly
+dani-garcia/vaultwarden,Rust,51528,2404,291,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",weekly
+linebender/vello,Rust,3539,201,46,A GPU compute-centric 2D renderer.,weekly
+rustfs/rustfs,Rust,11833,563,968,"🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",monthly
+clockworklabs/SpacetimeDB,Rust,18684,649,209,Multiplayer at the speed of light,monthly
+BurntSushi/ripgrep,Rust,57787,2327,890,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,monthly
+block/goose,Rust,22655,2064,1067,"an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",monthly
+helix-editor/helix,Rust,41641,3193,816,A post-modern modal text editor.,monthly
+sharkdp/bat,Rust,56048,1418,519,A cat(1) clone with wings.,monthly
+librespot-org/librespot,Rust,6351,783,539,Open Source Spotify client library,monthly
+servo/servo,Rust,34410,3384,913,"Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",monthly
+biomejs/biome,Rust,22516,781,565,"A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",monthly
+oxc-project/oxc,Rust,17624,732,358,⚓ A collection of JavaScript tools written in Rust.,monthly
+rolldown/rolldown,Rust,12441,674,174,Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.,monthly
+tokio-rs/tokio,Rust,30412,2851,370,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",monthly
+zed-industries/zed,Rust,70775,6145,2008,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",monthly
+alacritty/alacritty,Rust,61278,3239,487,"A cross-platform, OpenGL terminal emulator.",monthly
+DioxusLabs/dioxus,Rust,32392,1395,947,"Fullstack app framework for web, desktop, and mobile.",monthly
+kata-containers/kata-containers,Rust,7077,1210,149,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",monthly
+dani-garcia/vaultwarden,Rust,51528,2404,1173,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",monthly
+microsoft/edit,Rust,12932,589,249,We all edit.,monthly
+tauri-apps/tauri,Rust,99545,3207,1185,"Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",monthly
+apache/datafusion,Rust,8105,1794,144,Apache DataFusion SQL Query Engine,monthly
+facebook/pyrefly,Rust,4875,211,723,A fast type checker and language server for Python,monthly
+cloudflare/quiche,Rust,10980,904,287,🥧 Savoury implementation of the QUIC transport protocol and HTTP/3,monthly
+ratatui/ratatui,Rust,16456,523,769,A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs,monthly
+slint-ui/slint,Rust,21143,788,337,"Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",monthly
+LizardByte/Sunshine,C++,31995,1549,24,Self-hosted game stream host for Moonlight.,daily
+google/perfetto,C++,5093,631,8,"Production-grade client-side tracing, profiling, and analysis for complex software systems.",daily
+Atmosphere-NX/Atmosphere,C++,17462,1353,6,Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.,daily
+nst/JSONTestSuite,C++,1111,169,4,A comprehensive test suite for RFC 8259 compliant JSON parsers,daily
+tile-ai/tilelang,C++,4067,333,10,Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels,daily
+trustwallet/wallet-core,C++,3375,1864,5,"Cross-platform, cross-blockchain wallet library.",daily
+perspective-dev/perspective,C++,9981,1262,9,"A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",daily
+facebookresearch/faiss,C++,38272,4141,14,A library for efficient similarity search and clustering of dense vectors.,daily
+wwmm/easyeffects,C++,8395,324,13,"Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications",daily
+project-chip/connectedhomeip,C++,8432,2292,3,"Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",daily
+fmtlib/fmt,C++,22976,2782,12,A modern formatting library,daily
+Snapchat/KeyDB,C++,12365,638,4,A Multithreaded Fork of Redis,daily
+PX4/PX4-Autopilot,C++,10580,14739,8,PX4 Autopilot Software,daily
+google/googletest,C++,37555,10598,5,GoogleTest - Google Testing and Mocking Framework,daily
+ZLMediaKit/ZLMediaKit,C++,16228,3871,8,WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT/STUN/TURN server and client framework based on C++11,daily
+facebook/rocksdb,C++,31128,6674,12,"A library that provides an embeddable, persistent key-value store for fast storage.",daily
+google/sentencepiece,C++,11482,1311,6,Unsupervised text tokenizer for Neural Network-based text generation.,daily
+firebase/firebase-ios-sdk,C++,6439,1698,1,Firebase SDK for Apple App Development,daily
+skypjack/entt,C++,11979,1022,6,Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more,daily
+cloudflare/workerd,C++,7298,484,8,The JavaScript / Wasm runtime that powers Cloudflare Workers,daily
+oceanbase/oceanbase,C++,9772,1836,5,"The Fastest Distributed Database for Transactional, Analytical, and AI Workloads.",daily
+Livox-SDK/livox_ros_driver2,C++,566,483,2,"Livox device driver under Ros(Compatible with ros and ros2), support Lidar HAP and Mid-360.",daily
+ggml-org/llama.cpp,C++,90767,13932,397,LLM inference in C/C++,weekly
+hyprwm/Hyprland,C++,32413,1448,175,"Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",weekly
+WerWolv/ImHex,C++,51820,2297,90,"🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",weekly
+swiftlang/swift,C++,69391,10611,45,The Swift Programming Language,weekly
+xournalpp/xournalpp,C++,13920,970,37,"Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.",weekly
+zcash/zcash,C++,5303,2170,12,Zcash - Internet Money,weekly
+MrNeRF/LichtFeld-Studio,C++,1819,206,29,LichtFeld Studio: Where reality and the digital world blend.,weekly
+cactus-compute/cactus,C++,3835,236,65,Kernels & AI inference engine for mobile devices.,weekly
+NickvisionApps/Parabolic,C++,4545,208,49,Download web video and audio,weekly
+ocornut/imgui,C++,69793,11370,202,Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies,weekly
+facebookresearch/habitat-sim,C++,3367,499,19,"A flexible, high-performance 3D simulator for Embodied AI research.",weekly
+kth-competitive-programming/kactl,C++,3198,910,14,KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp),weekly
+opencv/opencv,C++,85134,56396,121,Open Source Computer Vision Library,weekly
+PCSX2/pcsx2,C++,13973,1822,35,PCSX2 - The Playstation 2 Emulator,weekly
+keepassxreboot/keepassxc,C++,25022,1649,108,KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.,weekly
+aseprite/aseprite,C++,34729,7552,109,"Animated sprite editor & pixel art tool (Windows, macOS, Linux)",weekly
+k4yt3x/video2x,C++,16252,1439,124,"A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",weekly
+ggml-org/ggml,C++,13649,1414,33,Tensor library for machine learning,weekly
+aristocratos/btop,C++,28816,868,143,A monitor of resources,weekly
+MaaAssistantArknights/MaaAssistantArknights,C++,18841,2381,80,"《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",weekly
+78/xiaozhi-esp32,C++,22050,4566,1122,An MCP-based chatbot | 一个基于MCP的聊天机器人,monthly
+envoyproxy/envoy,C++,27115,5182,174,Cloud-native high-performance edge/middle/service proxy,monthly
+WerWolv/ImHex,C++,51820,2297,962,"🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",monthly
+ml-explore/mlx,C++,22960,1412,335,MLX: An array framework for Apple silicon,monthly
+k2-fsa/sherpa-onnx,C++,9109,1014,430,"Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages",monthly
+ggml-org/llama.cpp,C++,90767,13932,2408,LLM inference in C/C++,monthly
+swiftlang/swift,C++,69391,10611,274,The Swift Programming Language,monthly
+amnezia-vpn/amnezia-client,C++,9079,627,302,Amnezia VPN Client (Desktop+Mobile),monthly
+ZDoom/gzdoom,C++,2987,629,36,"GZDoom is a feature centric port for all Doom engine games, based on ZDoom, adding an OpenGL renderer and powerful scripting capabilities",monthly
+bambulab/BambuStudio,C++,3482,517,142,PC Software for BambuLab and other 3D printers,monthly
+protocolbuffers/protobuf,C++,69762,15948,341,Protocol Buffers - Google's data interchange format,monthly
+PCSX2/pcsx2,C++,13973,1822,300,PCSX2 - The Playstation 2 Emulator,monthly
+ValveSoftware/Proton,C++,28934,1260,905,Compatibility tool for Steam Play based on Wine and additional components,monthly
+ClickHouse/ClickHouse,C++,44414,7872,705,ClickHouse® is a real-time analytics database management system,monthly
+aristocratos/btop,C++,28816,868,1081,A monitor of resources,monthly
+PaddlePaddle/Paddle,C++,23466,5903,114,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）,monthly
+o3de/o3de,C++,8822,2380,110,"Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.",monthly
+yhirose/cpp-httplib,C++,15712,2579,306,A C++ header-only HTTP/HTTPS server and client library,monthly
+NickvisionApps/Parabolic,C++,4545,208,520,Download web video and audio,monthly
+hyprwm/hyprland-plugins,C++,1162,143,81,Official plugins for Hyprland,monthly
+mackron/miniaudio,C,5640,485,6,"Audio playback and capture library written in C, in a single source file.",daily
+immortalwrt/immortalwrt,C,9425,2947,15,An opensource OpenWrt variant for mainland China users.,daily
+nrfconnect/sdk-zephyr,C,367,735,0,NCS downstream of https://github.com/zephyrproject-rtos/zephyr,daily
+openssl/openssl,C,29151,10951,7,TLS/SSL and crypto library,daily
+mattn/go-sqlite3,C,8847,1153,4,sqlite3 driver for go using database/sql,daily
+kingToolbox/WindTerm,C,28931,2229,18,A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.,daily
+SanderMertens/flecs,C,7745,561,2,A fast entity component system (ECS) for C & C++,daily
+fastfetch-cli/fastfetch,C,18414,631,15,"A maintained, feature-rich and performance oriented, neofetch like system information tool.",daily
+php/php-src,C,39666,7974,3,The PHP Interpreter,daily
+betaflight/betaflight,C,10306,3491,5,Open Source Flight Controller Firmware,daily
+curl/curl,C,40053,6974,13,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",daily
+Mbed-TLS/mbedtls,C,6303,2801,2,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",daily
+open62541/open62541,C,2968,1369,1,Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0,daily
+apache/httpd,C,3882,1207,3,Mirror of Apache HTTP Server. Issues: http://issues.apache.org,daily
+open-quantum-safe/liboqs,C,2642,655,1,C library for prototyping and experimenting with quantum-resistant cryptography,daily
+netdata/netdata,C,76892,6246,18,"The fastest path to AI-powered full stack observability, even for lean teams.",daily
+nrfconnect/sdk-nrf,C,1208,1427,1,nRF Connect SDK main repository,daily
+NMminer1024/NMMiner,C,357,56,3,A tiny BTC miner base on esp32 series，I'd rather call it BTC lottery,daily
+erincatto/box2d,C,9345,1710,3,Box2D is a 2D physics engine for games,daily
+utkarshdalal/GameNative,C,1448,48,49,Lightweight unofficial Steam client for Android,weekly
+arendst/Tasmota,C,23905,5025,26,"Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",weekly
+FalkorDB/FalkorDB,C,2370,172,260,A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).,weekly
+openzfs/zfs,C,11795,1917,30,OpenZFS on Linux and FreeBSD,weekly
+p2r3/bareiron,C,3844,188,42,Minimalist Minecraft server for memory-restrictive embedded systems,weekly
+NMminer1024/NMMiner,C,357,56,18,A tiny BTC miner base on esp32 series，I'd rather call it BTC lottery,weekly
+openwrt/openwrt,C,24663,11789,75,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.,weekly
+FreeRTOS/FreeRTOS-Kernel,C,3675,1387,8,"FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",weekly
+libsdl-org/SDL,C,14172,2486,59,Simple DirectMedia Layer,weekly
+pret/pokeemerald,C,2830,3606,14,Decompilation of Pokémon Emerald,weekly
+PerformanC/ReZygisk,C,2804,256,32,Transparent implementation of Zygisk.,weekly
+u-boot/u-boot,C,4786,4178,12,"""Das U-Boot"" Source Tree",weekly
+kingToolbox/WindTerm,C,28931,2229,96,A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.,weekly
+netdata/netdata,C,76892,6246,96,"The fastest path to AI-powered full stack observability, even for lean teams.",weekly
+VirtualBox/virtualbox,C,830,90,20,Source code for Oracle VirtualBox,weekly
+xiph/opus,C,2863,712,12,Modern audio compression for the internet.,weekly
+duixcom/Duix-Avatar,C,11818,1933,58,🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.,weekly
+pymumu/smartdns,C,10280,1199,51,"A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。",weekly
+git/git,C,57814,27110,761,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,monthly
+zephyrproject-rtos/zephyr,C,13838,8329,261,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",monthly
+duixcom/Duix-Avatar,C,11818,1933,278,🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.,monthly
+bol-van/zapret,C,13396,935,373,DPI bypass multi platform,monthly
+PufferAI/PufferLib,C,4395,325,378,Simplifying reinforcement learning for complex game environments,monthly
+valinet/ExplorerPatcher,C,30420,1240,653,This project aims to enhance the working environment on Windows,monthly
+darktable-org/darktable,C,11686,1257,142,darktable is an open source photography workflow application and raw developer,monthly
+RfidResearchGroup/ChameleonUltra,C,1989,286,108,"The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.",monthly
+valkey-io/valkey,C,23812,954,373,A flexible distributed key-value database that is optimized for caching and other realtime workloads.,monthly
+RT-Thread/rt-thread,C,11588,5315,90,RT-Thread is an open source IoT Real-Time Operating System (RTOS). https://rt-thread.github.io/rt-thread/,monthly
+openzfs/zfs,C,11795,1917,120,OpenZFS on Linux and FreeBSD,monthly
+BitMaker-hub/NerdMiner_v2,C,2417,525,109,Improved version of first ESP32 NerdMiner,monthly
+jetkvm/kvm,C,3949,252,214,JetKVM - Control any computer remotely,monthly
+lvgl/lvgl,C,22093,3929,318,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",monthly
+taosdata/TDengine,C,24547,4977,115,"High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",monthly
+kingToolbox/WindTerm,C,28931,2229,470,A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.,monthly
+FRRouting/frr,C,3911,1418,52,The FRRouting Protocol Suite,monthly
+tsl0922/ttyd,C,10488,1037,223,Share your terminal over the web,monthly
+nginx/nginx,C,28714,7658,345,The official NGINX Open Source repository.,monthly
+arendst/Tasmota,C,23905,5025,110,"Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",monthly
+tmux/tmux,C,39929,2322,556,tmux source code,monthly
+espressif/esp-idf,C,16725,7990,215,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,monthly
+timescale/timescaledb,C,20967,1004,391,A time-series database for high-performance real-time analytics packaged as a Postgres extension,monthly
+mackron/miniaudio,C,5640,485,6,"Audio playback and capture library written in C, in a single source file.",weekly
+immortalwrt/immortalwrt,C,9425,2947,15,An opensource OpenWrt variant for mainland China users.,weekly
+nrfconnect/sdk-zephyr,C,367,735,0,NCS downstream of https://github.com/zephyrproject-rtos/zephyr,weekly
+openssl/openssl,C,29151,10951,7,TLS/SSL and crypto library,weekly
+mattn/go-sqlite3,C,8847,1153,4,sqlite3 driver for go using database/sql,weekly
+SanderMertens/flecs,C,7745,561,2,A fast entity component system (ECS) for C & C++,weekly
+fastfetch-cli/fastfetch,C,18414,631,15,"A maintained, feature-rich and performance oriented, neofetch like system information tool.",weekly
+php/php-src,C,39666,7974,3,The PHP Interpreter,weekly
+betaflight/betaflight,C,10306,3491,5,Open Source Flight Controller Firmware,weekly
+curl/curl,C,40053,6974,13,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",weekly
+Mbed-TLS/mbedtls,C,6303,2801,2,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",weekly
+open62541/open62541,C,2968,1369,1,Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0,weekly
+apache/httpd,C,3882,1207,3,Mirror of Apache HTTP Server. Issues: http://issues.apache.org,weekly
+open-quantum-safe/liboqs,C,2642,655,1,C library for prototyping and experimenting with quantum-resistant cryptography,weekly
+nrfconnect/sdk-nrf,C,1208,1427,1,nRF Connect SDK main repository,weekly
+erincatto/box2d,C,9345,1710,3,Box2D is a 2D physics engine for games,weekly
+mackron/miniaudio,C,5640,485,6,"Audio playback and capture library written in C, in a single source file.",monthly
+immortalwrt/immortalwrt,C,9425,2947,15,An opensource OpenWrt variant for mainland China users.,monthly
+nrfconnect/sdk-zephyr,C,367,735,0,NCS downstream of https://github.com/zephyrproject-rtos/zephyr,monthly
+openssl/openssl,C,29151,10951,7,TLS/SSL and crypto library,monthly
+mattn/go-sqlite3,C,8847,1153,4,sqlite3 driver for go using database/sql,monthly
+SanderMertens/flecs,C,7745,561,2,A fast entity component system (ECS) for C & C++,monthly
+fastfetch-cli/fastfetch,C,18414,631,15,"A maintained, feature-rich and performance oriented, neofetch like system information tool.",monthly
+php/php-src,C,39666,7974,3,The PHP Interpreter,monthly
+betaflight/betaflight,C,10306,3491,5,Open Source Flight Controller Firmware,monthly
+curl/curl,C,40053,6974,13,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",monthly
+Mbed-TLS/mbedtls,C,6303,2801,2,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",monthly
+open62541/open62541,C,2968,1369,1,Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0,monthly
+apache/httpd,C,3882,1207,3,Mirror of Apache HTTP Server. Issues: http://issues.apache.org,monthly
+open-quantum-safe/liboqs,C,2642,655,1,C library for prototyping and experimenting with quantum-resistant cryptography,monthly
+netdata/netdata,C,76892,6246,18,"The fastest path to AI-powered full stack observability, even for lean teams.",monthly
+nrfconnect/sdk-nrf,C,1208,1427,1,nRF Connect SDK main repository,monthly
+NMminer1024/NMMiner,C,357,56,3,A tiny BTC miner base on esp32 series，I'd rather call it BTC lottery,monthly
+erincatto/box2d,C,9345,1710,3,Box2D is a 2D physics engine for games,monthly
+filamentphp/filament,PHP,27909,3960,21,A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire,daily
+coollabsio/coolify,PHP,47998,3242,30,"An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.",daily
+WordPress/wordpress-develop,PHP,3159,3163,2,"WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",daily
+nextcloud/server,PHP,33525,4657,18,"☁️ Nextcloud server, a safe home for all your data",daily
+cedar2025/Xboard,PHP,3506,939,7,High-performance panel based on V2board secondary development supporting new protocols and new features,daily
+modelcontextprotocol/php-sdk,PHP,1229,96,1,The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation.,daily
+danielmiessler/SecLists,PHP,67318,24807,26,"SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",daily
+bagisto/bagisto,PHP,24615,2834,54,Free and open source laravel eCommerce platform,daily
+woocommerce/woocommerce,PHP,10079,10730,0,"A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.",daily
+magento/magento2,PHP,11990,9411,0,"Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",daily
+nextcloud/all-in-one,PHP,8516,937,14,📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.,daily
+livewire/blaze,PHP,127,10,2,Pre-compile Blade components for blazing fast rendering performance,daily
+grokability/snipe-it,PHP,13070,3672,3,A free open source IT asset/license management system,daily
+SeptiawanAjiP/dewakoding-project-management,PHP,566,171,1,Project management tool built with Laravel Filament 4 for simple and efficient task tracking.,daily
+phpstan/phpstan,PHP,13725,933,4,PHP Static Analysis Tool - discover bugs in your code without running it!,daily
+espocrm/espocrm,PHP,2671,772,2,EspoCRM – Open Source CRM Application,daily
+getgrav/grav,PHP,15298,1428,1,"Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony",daily
+BOINC/boinc,PHP,2260,505,2,Open-source software for volunteer computing and grid computing.,daily
+livewire/livewire,PHP,23293,1682,2,A full-stack framework for Laravel that takes the pain out of building dynamic UIs.,daily
+larastan/larastan,PHP,6199,482,2,⚗️ Adds code analysis to Laravel improving developer productivity and code quality.,daily
+symfony/ux,PHP,1006,399,1,Symfony UX initiative: a JavaScript ecosystem for Symfony,daily
+mautic/mautic,PHP,8928,3087,1,Mautic: Open Source Marketing Automation Software.,daily
+coollabsio/coolify,PHP,47998,3242,308,"An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.",weekly
+filamentphp/filament,PHP,27909,3960,124,A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire,weekly
+grokability/snipe-it,PHP,13070,3672,25,A free open source IT asset/license management system,weekly
+roundcube/roundcubemail,PHP,6650,1728,7,The Roundcube Webmail suite,weekly
+sparkison/m3u-editor,PHP,434,59,15,"A full-featured IPTV editor, including features similar to xteve or threadfin. With full EPG management, Xtream API output, ability to store and sync .strm files, post processing with ability to call custom scripts, send webhook requests, or send an email, and much more!",weekly
+openai-php/client,PHP,5668,663,20,⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.,weekly
+bagisto/bagisto,PHP,24615,2834,142,Free and open source laravel eCommerce platform,weekly
+krayin/laravel-crm,PHP,20444,1308,131,Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.,weekly
+symfony/symfony,PHP,30813,9757,29,The Symfony PHP framework,weekly
+alexjustesen/speedtest-tracker,PHP,4606,175,37,Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.,weekly
+firefly-iii/firefly-iii,PHP,21623,1978,102,Firefly III: a personal finances manager,weekly
+zabbix/zabbix,PHP,5440,1130,24,"Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.",weekly
+laravel/wayfinder,PHP,1392,64,13,,weekly
+PrivateBin/PrivateBin,PHP,7795,942,43,"A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.",weekly
+monicahq/monica,PHP,23706,2398,42,"Personal CRM. Remember everything about your friends, family and business relationships.",weekly
+glpi-project/glpi,PHP,5369,1547,24,"GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",weekly
+humhub/humhub,PHP,6581,1687,7,"HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.",weekly
+librespeed/speedtest,PHP,13949,2413,72,"Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more",weekly
+WordPress/mcp-adapter,PHP,338,55,74,"An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.",monthly
+livewire/livewire,PHP,23293,1682,84,A full-stack framework for Laravel that takes the pain out of building dynamic UIs.,monthly
+glpi-project/glpi,PHP,5369,1547,89,"GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",monthly
+matomo-org/matomo,PHP,21079,2790,119,"Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!",monthly
+akaunting/akaunting,PHP,9382,2778,92,Online Accounting Software,monthly
+openai-php/client,PHP,5668,663,67,⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.,monthly
+woocommerce/woocommerce,PHP,10079,10730,56,"A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.",monthly
+getgrav/grav,PHP,15298,1428,87,"Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony",monthly
+BookStackApp/BookStack,PHP,17806,2274,212,A platform to create documentation/wiki content built with PHP & Laravel,monthly
+nextcloud/all-in-one,PHP,8516,937,294,📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.,monthly
+WordPress/abilities-api,PHP,150,47,28,"A WordPress API for declaring and discovering plugin, theme, and core abilities in a human- and machine-readable way.",monthly
+HiEventsDev/Hi.Events,PHP,3326,507,79,"Open-source event management and ticket selling platform — perfect for concerts, conferences, and everything in between 🎟️ If you find this project helpful, please consider giving us a star ⭐️",monthly
+laravel/framework,PHP,34327,11710,123,The Laravel Framework.,monthly
+opnsense/core,PHP,4110,881,63,"OPNsense GUI, API and systems backend",monthly
+FreshRSS/FreshRSS,PHP,13236,1058,306,"A free, self-hostable news aggregator…",monthly
+WordPress/wordpress-develop,PHP,3159,3163,41,"WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",monthly
+roundcube/roundcubemail,PHP,6650,1728,59,The Roundcube Webmail suite,monthly
+magento/magento2,PHP,11990,9411,34,"Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",monthly
+krayin/laravel-crm,PHP,20444,1308,1016,Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.,monthly
+Qloapps/QloApps,PHP,11308,683,985,"QloApps is a Free and Open-source hotel management and reservation system to take a hotel business online. QloApps offers a Property Management System (PMS), a Booking Engine, and an attractive Hotel Website. Elevate hotel operations with QloApps to streamline processes and provide an enhanced experience for both hoteliers and guests.",monthly
+danielmiessler/SecLists,PHP,67318,24807,747,"SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",monthly
+huginn/huginn,Ruby,48239,4210,21,Create agents that monitor and act on your behalf. Your agents are standing by!,daily
+chatwoot/chatwoot,Ruby,26202,5852,13,"Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",daily
+instructure/canvas-lms,Ruby,6323,2817,0,"The open LMS by Instructure, Inc.",daily
+docusealco/docuseal,Ruby,10958,878,5,"Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",daily
+spree/spree,Ruby,15070,5203,3,"An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",daily
+Homebrew/homebrew-cask,Ruby,21678,11213,4,🍻 A CLI workflow for the administration of macOS applications distributed as binaries,daily
+teamcapybara/capybara,Ruby,10128,1468,0,Acceptance test framework for web applications,daily
+fastlane/fastlane,Ruby,40716,5958,5,🚀 The easiest way to automate building and releasing your iOS and Android apps,daily
+opf/openproject,Ruby,13277,2936,7,OpenProject is the leading open source project management software.,daily
+discourse/discourse,Ruby,45697,8729,8,"A platform for community discussion. Free, open, simple.",daily
+dependabot/dependabot-core,Ruby,5314,1245,2,🤖 Dependabot's core logic for creating update PRs.,daily
+heartcombo/devise,Ruby,24293,5526,1,Flexible authentication solution for Rails with Warden.,daily
+kilimchoi/engineering-blogs,Ruby,36510,1910,10,A curated list of engineering blogs,daily
+github/choosealicense.com,Ruby,3999,1490,0,A site to provide non-judgmental guidance on choosing a license for your open source project,daily
+freeCodeCamp/devdocs,Ruby,37976,2528,3,API Documentation Browser,daily
+Homebrew/homebrew-core,Ruby,14854,13236,4,🍻 Default formulae for the missing package manager for macOS (or Linux),daily
+Homebrew/brew,Ruby,45670,10726,17,🍺 The missing package manager for macOS (or Linux),daily
+markdownlint/markdownlint,Ruby,1969,239,1,Markdown lint tool,daily
+rubysec/ruby-advisory-db,Ruby,1045,224,0,A database of vulnerable Ruby Gems,daily
+DataDog/datadog-api-client-ruby,Ruby,42,22,0,Ruby client for the Datadog API,daily
+antiwork/gumroad,Ruby,7681,1447,56,Sell stuff and see what sticks,weekly
+huginn/huginn,Ruby,48239,4210,87,Create agents that monitor and act on your behalf. Your agents are standing by!,weekly
+instructure/canvas-lms,Ruby,6323,2817,10,"The open LMS by Instructure, Inc.",weekly
+github-linguist/linguist,Ruby,13152,4865,21,"Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",weekly
+dependabot/dependabot-core,Ruby,5314,1245,16,🤖 Dependabot's core logic for creating update PRs.,weekly
+opf/openproject,Ruby,13277,2936,45,OpenProject is the leading open source project management software.,weekly
+discourse/discourse,Ruby,45697,8729,60,"A platform for community discussion. Free, open, simple.",weekly
+Shopify/liquid,Ruby,11597,1487,12,"Liquid markup language. Safe, customer facing template language for flexible web apps.",weekly
+urbanadventurer/WhatWeb,Ruby,6252,976,43,Next generation web scanner,weekly
+mastodon/mastodon,Ruby,49325,7364,53,"Your self-hosted, globally interconnected microblogging community",weekly
+ruby/ruby,Ruby,23122,5528,20,The Ruby Programming Language,weekly
+crmne/ruby_llm,Ruby,3280,328,18,"One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, GPUStack & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.",weekly
+zammad/zammad,Ruby,5244,896,16,Zammad is a web based open source helpdesk/customer support system.,weekly
+Homebrew/homebrew-cask,Ruby,21678,11213,16,🍻 A CLI workflow for the administration of macOS applications distributed as binaries,weekly
+Homebrew/homebrew-core,Ruby,14854,13236,16,🍻 Default formulae for the missing package manager for macOS (or Linux),weekly
+basecamp/once-campfire,Ruby,3625,578,36,,weekly
+ruby/rubygems,Ruby,3859,1862,6,Library packaging and distribution for Ruby.,weekly
+postalserver/postal,Ruby,16086,1188,17,📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail,weekly
+teamcapybara/capybara,Ruby,10128,1468,1,Acceptance test framework for web applications,weekly
+Homebrew/brew,Ruby,45670,10726,82,🍺 The missing package manager for macOS (or Linux),weekly
+sidekiq/sidekiq,Ruby,13459,2470,6,"Simple, efficient background processing for Ruby",weekly
+citation-style-language/styles,Ruby,3641,4012,8,Official repository for Citation Style Language (CSL) citation styles.,weekly
+ubicloud/ubicloud,Ruby,11524,525,251,"Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",monthly
+basecamp/kamal,Ruby,13584,648,128,Deploy web apps anywhere.,monthly
+Freika/dawarich,Ruby,7402,229,235,Your favorite self-hostable alternative to Google Timeline (Google Location History),monthly
+tobi/try,Shell,2323,78,1452,fresh directories for every vibe,monthly
+discourse/discourse,Ruby,45697,8729,272,"A platform for community discussion. Free, open, simple.",monthly
+sidekiq/sidekiq,Ruby,13459,2470,28,"Simple, efficient background processing for Ruby",monthly
+antiwork/gumroad,Ruby,7681,1447,365,Sell stuff and see what sticks,monthly
+Shopify/liquid,Ruby,11597,1487,66,"Liquid markup language. Safe, customer facing template language for flexible web apps.",monthly
+chatwoot/chatwoot,Ruby,26202,5852,322,"Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",monthly
+zammad/zammad,Ruby,5244,896,69,Zammad is a web based open source helpdesk/customer support system.,monthly
+huginn/huginn,Ruby,48239,4210,410,Create agents that monitor and act on your behalf. Your agents are standing by!,monthly
+rails/solid_queue,Ruby,2292,208,35,Database-backed Active Job backend,monthly
+modelcontextprotocol/ruby-sdk,Ruby,642,82,45,The official Ruby SDK for the Model Context Protocol. Maintained in collaboration with Shopify.,monthly
+Homebrew/brew,Ruby,45670,10726,447,🍺 The missing package manager for macOS (or Linux),monthly
+dependabot/dependabot-core,Ruby,5314,1245,62,🤖 Dependabot's core logic for creating update PRs.,monthly
+ruby/ruby,Ruby,23122,5528,108,The Ruby Programming Language,monthly
+Homebrew/homebrew-core,Ruby,14854,13236,84,🍻 Default formulae for the missing package manager for macOS (or Linux),monthly
+rails/rails,Ruby,57929,22054,170,Ruby on Rails,monthly
+DataDog/dd-trace-rb,Ruby,383,399,3,Datadog's client library for Ruby,monthly
+github/choosealicense.com,Ruby,3999,1490,29,A site to provide non-judgmental guidance on choosing a license for your open source project,monthly
+crmne/ruby_llm,Ruby,3280,328,161,"One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, GPUStack & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.",monthly
+endoflife-date/endoflife.date,Ruby,3059,1086,45,Informative site with EoL dates of everything,monthly
+postalserver/postal,Ruby,16086,1188,87,📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail,monthly
+Alamofire/Alamofire,Swift,42238,7641,3,Elegant HTTP Networking in Swift,daily
+yonaskolb/XcodeGen,Swift,7910,869,9,A Swift command line tool for generating your Xcode project,daily
+gonzalezreal/swift-markdown-ui,Swift,3642,486,3,Display and customize Markdown text in SwiftUI,daily
+nicklockwood/SwiftFormat,Swift,8600,664,1,A command-line tool and Xcode Extension for formatting Swift code,daily
+airbnb/lottie-ios,Swift,26560,3824,3,An iOS library to natively render After Effects vector animations,daily
+whoeevee/EeveeSpotifyReborn,Swift,1713,7414,8,A tweak to enhance Spotify experience,daily
+stephencelis/SQLite.swift,Swift,10068,1625,0,"A type-safe, Swift-language layer over SQLite3.",daily
+rime/squirrel,Swift,5417,444,4,【鼠鬚管】Rime for macOS,daily
+apple/container,Swift,22519,543,21,"A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",daily
+open-meteo/open-meteo,Swift,3918,272,1,Free Weather Forecast API for non-commercial use,daily
+tuist/tuist,Swift,5410,674,3,A virtual platform team for mobile devs who ship,daily
+apple/containerization,Swift,8132,228,6,Containerization is a Swift package for running Linux containers on macOS.,daily
+apple/swift-async-algorithms,Swift,3516,188,1,Async Algorithms for Swift,daily
+lwouis/alt-tab-macos,Swift,13880,431,10,Windows alt-tab on macOS,daily
+apple/swift-protobuf,Swift,4819,497,1,Plugin and runtime library for using protobuf with Swift,daily
+facebook/facebook-ios-sdk,Swift,7974,3672,0,Used to integrate the Facebook Platform with your iOS & tvOS apps.,daily
+mrousavy/react-native-vision-camera,Swift,9033,1304,3,"📸 A powerful, high-performance React Native Camera library.",daily
+utmapp/UTM,Swift,31767,1591,10,Virtual machines for iOS and macOS,daily
+seemoo-lab/openhaystack,Swift,12314,604,5,Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.,daily
+apollographql/apollo-ios,Swift,4015,750,0,"📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.",daily
+onevcat/Kingfisher,Swift,24156,2740,5,"A lightweight, pure-Swift library for downloading and caching images from the web.",daily
+github/CopilotForXcode,Swift,5314,1588,7,AI coding assistant for Xcode,daily
+ChartsOrg/Charts,Swift,27982,6050,1,Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.,daily
+swiftlang/sourcekit-lsp,Swift,3675,323,0,Language Server Protocol implementation for Swift and C-based languages,daily
+vapor/vapor,Swift,25814,1514,16,💧 A server-side Swift HTTP web framework.,weekly
+groue/GRDB.swift,Swift,8008,813,22,"A toolkit for SQLite databases, with a focus on application development",weekly
+yonaskolb/XcodeGen,Swift,7910,869,31,A Swift command line tool for generating your Xcode project,weekly
+ggml-org/LlamaBarn,Swift,583,21,14,A cosy home for your LLMs.,weekly
+whoeevee/EeveeSpotifyReborn,Swift,1713,7414,62,A tweak to enhance Spotify experience,weekly
+pointfreeco/swift-composable-architecture,Swift,14131,1608,31,"A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",weekly
+MacPaw/OpenAI,Swift,2805,504,16,Swift community driven package for OpenAI public API,weekly
+lwouis/alt-tab-macos,Swift,13880,431,55,Windows alt-tab on macOS,weekly
+mrousavy/react-native-vision-camera,Swift,9033,1304,17,"📸 A powerful, high-performance React Native Camera library.",weekly
+signalapp/Signal-iOS,Swift,11708,3323,40,A private messenger for iOS.,weekly
+open-meteo/open-meteo,Swift,3918,272,24,Free Weather Forecast API for non-commercial use,weekly
+apple/swift-nio,Swift,8328,719,8,"Event-driven network application framework for high performance protocol servers & clients, non-blocking.",weekly
+gonzalezreal/swift-markdown-ui,Swift,3642,486,32,Display and customize Markdown text in SwiftUI,weekly
+nicklockwood/SwiftFormat,Swift,8600,664,8,A command-line tool and Xcode Extension for formatting Swift code,weekly
+vsouza/awesome-ios,Swift,50601,6934,118,"A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects",weekly
+apple/swift-collections,Swift,4274,357,12,Commonly used data structures for Swift,weekly
+Alamofire/Alamofire,Swift,42238,7641,14,Elegant HTTP Networking in Swift,weekly
+pointfreeco/swift-snapshot-testing,Swift,4085,639,8,📸 Delightful Swift snapshot testing.,weekly
+onevcat/Kingfisher,Swift,24156,2740,15,"A lightweight, pure-Swift library for downloading and caching images from the web.",weekly
+rime/squirrel,Swift,5417,444,23,【鼠鬚管】Rime for macOS,weekly
+siteline/swiftui-introspect,Swift,6361,406,19,Introspect underlying UIKit/AppKit components from SwiftUI,weekly
+pointfreeco/swift-dependencies,Swift,2028,164,6,"A dependency management library inspired by SwiftUI's ""environment.""",weekly
+Beingpax/VoiceInk,Swift,2762,323,287,Voice-to-text app for macOS to transcribe what you say to text almost instantly,monthly
+pointfreeco/swift-composable-architecture,Swift,14131,1608,114,"A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",monthly
+mozilla-mobile/firefox-ios,Swift,12782,3130,41,Firefox for iOS,monthly
+nicklockwood/SwiftFormat,Swift,8600,664,42,A command-line tool and Xcode Extension for formatting Swift code,monthly
+groue/GRDB.swift,Swift,8008,813,117,"A toolkit for SQLite databases, with a focus on application development",monthly
+facebook/facebook-ios-sdk,Swift,7974,3672,19,Used to integrate the Facebook Platform with your iOS & tvOS apps.,monthly
+realm/SwiftLint,Swift,19297,2273,55,A tool to enforce Swift style and conventions.,monthly
+jellyfin/Swiftfin,Swift,3491,419,89,Native Jellyfin Client for iOS and tvOS,monthly
+nikitabobko/AeroSpace,Swift,17270,357,743,AeroSpace is an i3-like tiling window manager for macOS,monthly
+vapor/vapor,Swift,25814,1514,151,💧 A server-side Swift HTTP web framework.,monthly
+tuist/tuist,Swift,5410,674,74,A virtual platform team for mobile devs who ship,monthly
+signalapp/Signal-iOS,Swift,11708,3323,95,A private messenger for iOS.,monthly
+pointfreeco/swift-dependencies,Swift,2028,164,28,"A dependency management library inspired by SwiftUI's ""environment.""",monthly
+grpc/grpc-swift-2,Swift,78,16,12,,monthly
+apple/swift-nio,Swift,8328,719,80,"Event-driven network application framework for high performance protocol servers & clients, non-blocking.",monthly
+Alamofire/Alamofire,Swift,42238,7641,76,Elegant HTTP Networking in Swift,monthly
+onevcat/Kingfisher,Swift,24156,2740,76,"A lightweight, pure-Swift library for downloading and caching images from the web.",monthly
+apple/swift-protobuf,Swift,4819,497,32,Plugin and runtime library for using protobuf with Swift,monthly
+TelegramMessenger/Telegram-iOS,Swift,7479,2164,110,Telegram-iOS,monthly
+apple/swift-async-algorithms,Swift,3516,188,45,Async Algorithms for Swift,monthly
+square/okhttp,Kotlin,46779,9259,3,"Square’s meticulous HTTP client for the JVM, Android, and GraalVM.",daily
+JetBrains/koog,Kotlin,3482,268,4,"Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",daily
+Aliucord/Aliucord,Kotlin,4448,206,2,A mod for the Discord Android App,daily
+breezy-weather/breezy-weather,Kotlin,8744,301,8,A feature-rich weather app with good visualizations and more than 50 sources.,daily
+JetBrains/Exposed,Kotlin,9092,753,1,Kotlin SQL Framework,daily
+duckduckgo/Android,Kotlin,4432,1157,3,DuckDuckGo Android App,daily
+android/architecture-samples,Kotlin,45459,11830,7,A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.,daily
+android/nowinandroid,Kotlin,20095,4009,14,A fully functional Android app built entirely with Kotlin and Jetpack Compose,daily
+google-ai-edge/gallery,Kotlin,14432,1212,6,A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.,daily
+MMRLApp/MMRL,Kotlin,1712,158,2,"A app for managing, sharing, and exploring Magisk modules across repositories",daily
+wxxsfxyzm/InstallerX-Revived,Kotlin,2460,67,8,More Expressive InstallerX !,daily
+android/compose-samples,Kotlin,22626,5310,12,Official Jetpack Compose samples.,daily
+android/nav3-recipes,Kotlin,940,85,16,Implement common use cases with Jetpack Navigation 3,daily
+gkd-kit/gkd,Kotlin,33951,1645,29,"基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",daily
+element-hq/element-x-android,Kotlin,1706,355,3,Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose,daily
+meshtastic/Meshtastic-Android,Kotlin,1218,347,3,Android application for Meshtastic,daily
+NeoApplications/Neo-Store,Kotlin,4085,138,1,An F-Droid client with modern UI and an arsenal of extra features.,daily
+JetBrains/kotlin,Kotlin,51933,6141,9,The Kotlin Programming Language.,daily
+android/snippets,Kotlin,941,299,0,Main repository for snippets surfaced on developer.android.com.,daily
+iamgio/quarkdown,Kotlin,9343,220,2,"🪐 Markdown with superpowers — from ideas to papers, presentations and books.",daily
+Kotlin/dokka,Kotlin,3704,471,1,API documentation engine for Kotlin,daily
+skydoves/Pokedex,Kotlin,8251,1092,1,"🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.",daily
+d4rken-org/sdmaid-se,Kotlin,5691,753,7,SD Maid 2/SE is Android's most thorough cleaning tool.,daily
+tiann/KernelSU,Kotlin,14287,2856,124,A Kernel based root solution for Android,weekly
+KotatsuApp/Kotatsu,Kotlin,7666,476,70,Manga reader for Android,weekly
+RunanywhereAI/runanywhere-sdks,Kotlin,3622,85,35,Production ready toolkit to run AI locally,weekly
+JetBrains/kotlin,Kotlin,51933,6141,65,The Kotlin Programming Language.,weekly
+mihonapp/mihon,Kotlin,17273,840,120,Free and open source manga reader for Android,weekly
+RikkaApps/Shizuku,Kotlin,19258,1667,225,Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.,weekly
+gkd-kit/gkd,Kotlin,33951,1645,211,"基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",weekly
+2dust/v2rayNG,Kotlin,47769,6661,299,"A V2Ray client for Android, support Xray core and v2fly core",weekly
+suqi8/OShin,Kotlin,708,43,14,一个专为ColorOS系统设计的辅助模块,weekly
+HapeLee/legado-with-MD3,Kotlin,1100,27,77,使用 Material Design 3 全新设计的阅读 3.0,weekly
+android/architecture-samples,Kotlin,45459,11830,31,A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.,weekly
+Ackites/Nrfr,Kotlin,5293,466,115,🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制,weekly
+InfinityLoop1308/PipePipe,Kotlin,4119,106,35,"An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely.",weekly
+android/compose-samples,Kotlin,22626,5310,58,Official Jetpack Compose samples.,weekly
+FossifyOrg/Gallery,Kotlin,2801,146,17,Browse your memories without any interruptions with this photo and video gallery,weekly
+signalapp/Signal-Android,Kotlin,27966,6604,51,A private messenger for Android.,weekly
+keiyoushi/extensions-source,Kotlin,3429,937,21,Source code of extensions in https://github.com/keiyoushi/extensions,weekly
+ycngmn/Nobook,Kotlin,851,26,10,Ad-free facebook lite for Android.,weekly
+KotatsuApp/Kotatsu,Kotlin,7666,476,611,Manga reader for Android,monthly
+JetBrains/kotlin,Kotlin,51933,6141,499,The Kotlin Programming Language.,monthly
+mihonapp/mihon,Kotlin,17273,840,723,Free and open source manga reader for Android,monthly
+gkd-kit/gkd,Kotlin,33951,1645,1645,"基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",monthly
+deniscerri/ytdlnis,Kotlin,6856,281,284,Full-featured audio/video downloader for Android using yt-dlp,monthly
+tiann/KernelSU,Kotlin,14287,2856,466,A Kernel based root solution for Android,monthly
+RikkaApps/Shizuku,Kotlin,19258,1667,964,Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.,monthly
+kavishdevar/librepods,Kotlin,18868,886,17239,AirPods liberated from Apple's ecosystem.,monthly
+jellyfin/jellyfin-androidtv,Kotlin,3872,706,105,Android TV Client for Jellyfin,monthly
+modelcontextprotocol/kotlin-sdk,Kotlin,1166,181,37,The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains,monthly
+JetBrains/compose-multiplatform,Kotlin,18554,1353,164,"Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",monthly
+element-hq/element-x-android,Kotlin,1706,355,58,Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose,monthly
+2dust/v2rayNG,Kotlin,47769,6661,1332,"A V2Ray client for Android, support Xray core and v2fly core",monthly
+xororz/local-dream,Kotlin,1294,67,335,Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.,monthly
+chsbuffer/ReVancedXposed,Kotlin,1699,75,220,"ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback",monthly
+ankidroid/Anki-Android,Kotlin,10319,2553,133,AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.,monthly
+pppscn/SmsForwarder,Kotlin,23617,3027,380,短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正,monthly
+JunkFood02/Seal,Kotlin,23177,975,597,"🦭 Video/Audio Downloader for Android, based on yt-dlp",monthly
+thunderbird/thunderbird-android,Kotlin,12813,2662,120,Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail),monthly
+android/architecture-samples,Kotlin,45459,11830,163,A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.,monthly
+xiaoyaocz/dart_simple_live,Dart,14153,1911,12,简简单单的看直播,daily
+flutter/flutter,Dart,174112,29620,23,Flutter makes it easy and fast to build beautiful apps for mobile and beyond,daily
+Begzar/BegzarApp,Dart,528,54,1,"Begzar, is a free software for internet freedom.",daily
+imaNNeo/fl_chart,Dart,7384,1935,1,"FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, Radar Chart and Candlestick Chart.",daily
+flutter/packages,Dart,5048,3556,0,A collection of useful packages maintained by the Flutter team,daily
+academind/flutter-complete-guide-course-resources,Dart,2581,1043,1,Course resources (code snapshots & slides) for our complete Flutter & Dart course (https://acad.link/flutter).,daily
+dstark5/Openlib,Dart,1998,91,1,An Open source app to download and read books from shadow library (Anna’s Archive),daily
+jameskokoska/Cashew,Dart,3813,572,4,💸 An app created to help users manage a budget and purchases,daily
+firebase/flutterfire,Dart,9089,4091,0,🔥 A collection of Firebase plugins for Flutter apps.,daily
+foss42/apidash,Dart,2551,598,3,"API Dash is a beautiful AI-powered open-source cross-platform (Desktop & Mobile) API Client built using Flutter which can help you easily create & customize your HTTP & GraphQL API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia.",daily
+dart-lang/sdk,Dart,10942,1716,3,"The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.",daily
+hiddify/hiddify-app,Dart,24596,2155,29,"Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",daily
+flutter/samples,Dart,18790,7814,2,A collection of Flutter examples and demos,daily
+arianneorpilla/jidoujisho,Dart,1459,76,0,A full-featured immersion language learning suite for mobile.,daily
+kodjodevf/mangayomi,Dart,2770,54,3,"Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows",daily
+ImranR98/Obtainium,Dart,13624,339,17,Get Android app updates straight from the source.,daily
+saber-notes/saber,Dart,3833,238,6,The cross-platform open-source app built for handwriting,daily
+JustLookAtNow/pt_mate,Dart,296,16,2,基于 Flutter（Material Design 3）开发的私有种子站点客户端，支持多种PT站点的种子浏览、搜索和下载管理。目前支持M-Team和NexusPHP类型的站点。,daily
+sass/dart-sass,Dart,4155,371,1,"The reference implementation of Sass, written in Dart.",daily
+GopeedLab/gopeed,Dart,21964,1511,93,A modern download manager that supports all platforms. Built with Golang and Flutter.,weekly
+flutter/flutter,Dart,174112,29620,141,Flutter makes it easy and fast to build beautiful apps for mobile and beyond,weekly
+felangel/bloc,Dart,12341,3422,14,A predictable state management library that helps implement the BLoC design pattern,weekly
+chen08209/FlClash,Dart,26236,1602,434,"A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",weekly
+flutter/samples,Dart,18790,7814,20,A collection of Flutter examples and demos,weekly
+ViscousPot/GitSync,Dart,1032,89,31,Mobile git client for syncing a repository between remote and a local directory,weekly
+hiddify/hiddify-app,Dart,24596,2155,165,"Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",weekly
+dart-lang/sdk,Dart,10942,1716,13,"The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.",weekly
+ImranR98/Obtainium,Dart,13624,339,109,Get Android app updates straight from the source.,weekly
+mitesh77/Best-Flutter-UI-Templates,Dart,22312,4804,28,completely free for everyone. Its build-in Flutter Dart.,weekly
+bggRGjQaUbCoE/PiliPlus,Dart,7956,428,220,PiliPlus,weekly
+shorebirdtech/shorebird,Dart,2847,194,10,Code Push for Flutter and other tools for Flutter businesses.,weekly
+lichess-org/mobile,Dart,1982,323,12,New Lichess mobile app in Flutter,weekly
+dstark5/Openlib,Dart,1998,91,14,An Open source app to download and read books from shadow library (Anna’s Archive),weekly
+flutter/packages,Dart,5048,3556,3,A collection of useful packages maintained by the Flutter team,weekly
+Chevey339/kelivo,Dart,830,90,65,A Flutter LLM Chat Client. Support Android & iOS & Harmony Next.,weekly
+academind/flutter-complete-guide-course-resources,Dart,2581,1043,13,Course resources (code snapshots & slides) for our complete Flutter & Dart course (https://acad.link/flutter).,weekly
+guozhigq/pilipala,Dart,12972,943,59,PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。,weekly
+jonasbark/swiftcontrol,Dart,394,18,26,"Do Virtual Gear Shifting (and more) in any rider app with your Zwift Play, Zwift Click, Zwift Ride or any other controller out there!",weekly
+AppFlowy-IO/AppFlowy,Dart,66792,4762,138,"Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",weekly
+ente-io/ente,Dart,23063,1355,124,🔥 End-to-end encrypted cloud for everything.,weekly
+GopeedLab/gopeed,Dart,21964,1511,1198,A modern download manager that supports all platforms. Built with Golang and Flutter.,monthly
+bggRGjQaUbCoE/PiliPlus,Dart,7956,428,1131,PiliPlus,monthly
+Anxcye/anx-reader,Dart,6477,410,334,"Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.",monthly
+anandnet/Harmony-Music,Dart,2690,247,106,A cross platform App for streaming Music,monthly
+chen08209/FlClash,Dart,26236,1602,1883,"A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",monthly
+jmshrv/finamp,Dart,3426,216,133,A Jellyfin music client for mobile,monthly
+hiddify/hiddify-app,Dart,24596,2155,648,"Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",monthly
+jameskokoska/Cashew,Dart,3813,572,148,💸 An app created to help users manage a budget and purchases,monthly
+KaringX/clashmi,Dart,3480,216,481,Clash Mihomo for iOS/Android,monthly
+venera-app/venera,Dart,5495,175,673,A comic app,monthly
+jonasbark/swiftcontrol,Dart,394,18,99,"Do Virtual Gear Shifting (and more) in any rider app with your Zwift Play, Zwift Click, Zwift Ride or any other controller out there!",monthly
+KRTirtho/spotube,Dart,42832,1903,756,🎧 Open source music streaming app! Available for both desktop & mobile!,monthly
+dart-lang/sdk,Dart,10942,1716,127,"The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.",monthly
+cake-tech/cake_wallet,Dart,1325,282,62,"The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com",monthly
+FriesI23/mhabit,Dart,1077,64,67,"Our app helps you form and track micro habits with easy-to-use 📈 charts and tools, making it simple to establish healthy habits that stick 🌱. Start your personal growth journey today 🚀!",monthly
+KaringX/karing,Dart,8294,729,612,"Simple & Powerful proxy utility, Support routing rules for clash/sing-box",monthly
+DonutWare/Fladder,Dart,1339,65,187,Fladder - A Simple Jellyfin frontend built on top of Flutter.,monthly
+krille-chan/fluffychat,Dart,2092,401,105,The cutest instant messenger in the [matrix],monthly
+guozhigq/pilipala,Dart,12972,943,291,PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。,monthly
+ViscousPot/GitSync,Dart,1032,89,131,Mobile git client for syncing a repository between remote and a local directory,monthly
+raoxwup/haka_comic,Dart,330,14,130,哔咔漫画(PicACG/Bika/Pica)第三方跨平台客户端，清爽无广告,monthly
+lichess-org/mobile,Dart,1982,323,66,New Lichess mobile app in Flutter,monthly
+felangel/bloc,Dart,12341,3422,40,A predictable state management library that helps implement the BLoC design pattern,monthly
+localsend/localsend,Dart,71196,3808,1542,An open-source cross-platform alternative to AirDrop,monthly
+sunarya-thito/shadcn_flutter,Dart,700,97,56,A cohesive shadcn/ui ecosystem for Flutter,monthly
+apache/spark,Scala,42419,28958,7,Apache Spark - A unified analytics engine for large-scale data processing,daily
+OpenXiangShan/XiangShan,Scala,6765,844,1,Open-source high-performance RISC-V processor,daily
+chipsalliance/rocket-chip,Scala,3631,1202,2,Rocket Chip Generator,daily
+lichess-org/lila,Scala,17421,2506,0,"♞ lichess.org: the forever free, adless and open source chess server ♞",daily
+delta-io/delta,Scala,8431,1964,4,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",daily
+scala/scala3,Scala,6156,1119,0,"The Scala 3 compiler, also known as Dotty.",daily
+hyperledger-labs/splice,Scala,56,52,0,"Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.",daily
+delta-io/delta-sharing,Scala,899,214,0,An open protocol for secure data sharing,daily
+apache/incubator-gluten,Scala,1480,547,2,Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.,daily
+twitter/the-algorithm,Scala,67884,12626,10,Source code for the X Recommendation Algorithm,daily
+ucb-bar/chipyard,Scala,2052,786,1,"An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",daily
+ucb-bar/riscv-torture,Scala,204,52,1,RISC-V Torture Test,daily
+digital-asset/daml,Scala,851,238,0,The Daml smart contract language,daily
+NVIDIA/spark-rapids,Scala,950,264,0,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,daily
+apache/incubator-livy,Scala,935,617,1,Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.,daily
+TheHive-Project/TheHive,Scala,3866,681,1,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",daily
+playframework/playframework,Scala,12607,4072,3,The Community Maintained High Velocity Web Framework For Java and Scala.,daily
+scala/scala,Scala,14427,3102,0,Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3,daily
+gitbucket/gitbucket,Scala,9324,1262,0,"A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",daily
+sbt/sbt,Scala,4876,958,0,"sbt, the interactive build tool",daily
+chipsalliance/chisel,Scala,4490,641,2,Chisel: A Modern Hardware Design Language,daily
+twitter/the-algorithm,Scala,67884,12626,56,Source code for the X Recommendation Algorithm,weekly
+delta-io/delta,Scala,8431,1964,17,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",weekly
+apache/spark,Scala,42419,28958,49,Apache Spark - A unified analytics engine for large-scale data processing,weekly
+lichess-org/lila,Scala,17421,2506,22,"♞ lichess.org: the forever free, adless and open source chess server ♞",weekly
+OpenXiangShan/XiangShan,Scala,6765,844,14,Open-source high-performance RISC-V processor,weekly
+digital-asset/daml,Scala,851,238,1,The Daml smart contract language,weekly
+scala/scala3,Scala,6156,1119,8,"The Scala 3 compiler, also known as Dotty.",weekly
+scalapb/ScalaPB,Scala,1331,293,2,Protocol buffer compiler for Scala.,weekly
+ucb-bar/berkeley-hardfloat,Scala,358,96,2,,weekly
+chipsalliance/chisel,Scala,4490,641,9,Chisel: A Modern Hardware Design Language,weekly
+hyperledger-labs/splice,Scala,56,52,1,"Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.",weekly
+akka/akka-core,Scala,13239,3579,4,"A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",weekly
+delta-io/delta-sharing,Scala,899,214,3,An open protocol for secure data sharing,weekly
+ucb-bar/chipyard,Scala,2052,786,8,"An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",weekly
+ucb-bar/riscv-torture,Scala,204,52,1,RISC-V Torture Test,weekly
+TheHive-Project/TheHive,Scala,3866,681,6,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",weekly
+rtyley/bfg-repo-cleaner,Scala,11868,573,21,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",weekly
+PrestaShop/docs,Scala,128,533,0,PrestaShop technical documentation,weekly
+airbnb/chronon,Scala,945,86,3,Chronon is a data platform for serving for AI/ML applications.,weekly
+apache/datafusion-comet,Scala,1073,254,2,Apache DataFusion Comet Spark Accelerator,weekly
+apache/spark,Scala,42419,28958,300,Apache Spark - A unified analytics engine for large-scale data processing,monthly
+akka/akka-core,Scala,13239,3579,20,"A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",monthly
+OpenXiangShan/XiangShan,Scala,6765,844,61,Open-source high-performance RISC-V processor,monthly
+lichess-org/lila,Scala,17421,2506,174,"♞ lichess.org: the forever free, adless and open source chess server ♞",monthly
+delta-io/delta,Scala,8431,1964,69,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",monthly
+scalapb/ScalaPB,Scala,1331,293,3,Protocol buffer compiler for Scala.,monthly
+ucb-bar/chipyard,Scala,2052,786,30,"An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",monthly
+joernio/joern,Scala,2743,373,49,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc,monthly
+chipsalliance/chisel,Scala,4490,641,37,Chisel: A Modern Hardware Design Language,monthly
+scala/scala3,Scala,6156,1119,25,"The Scala 3 compiler, also known as Dotty.",monthly
+riscv-boom/riscv-boom,Scala,2021,471,24,SonicBOOM: The Berkeley Out-of-Order Machine,monthly
+chipsalliance/rocket-chip,Scala,3631,1202,42,Rocket Chip Generator,monthly
+NVIDIA/spark-rapids,Scala,950,264,12,Spark RAPIDS plugin - accelerate Apache Spark with GPUs,monthly
+JohnSnowLabs/spark-nlp,Scala,4074,736,14,State of the Art Natural Language Processing,monthly
+PrestaShop/docs,Scala,128,533,0,PrestaShop technical documentation,monthly
+ucb-bar/riscv-torture,Scala,204,52,2,RISC-V Torture Test,monthly
+databricks/Spark-The-Definitive-Guide,Scala,3060,2879,16,Spark: The Definitive Guide's Code Repository,monthly
+digital-asset/daml,Scala,851,238,10,The Daml smart contract language,monthly
+apache/incubator-gluten,Scala,1480,547,12,Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.,monthly
+airbnb/chronon,Scala,945,86,11,Chronon is a data platform for serving for AI/ML applications.,monthly
+TheHive-Project/TheHive,Scala,3866,681,24,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",monthly
+tidyverse/ggplot2,R,6833,2113,1,An implementation of the Grammar of Graphics in R,daily
+satijalab/seurat,R,2579,976,2,R toolkit for single cell genomics,daily
+hadley/r4ds,R,4938,4384,1,R for data science: a book,daily
+YuLab-SMU/clusterProfiler,R,1143,264,0,📊 A universal enrichment tool for interpreting omics data,daily
+rstudio/renv,R,1115,162,1,renv: Project environments for R.,daily
+saeyslab/nichenetr,R,596,133,0,NicheNet: predict active ligand-target links between interacting cells,daily
+joey711/phyloseq,R,631,192,0,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",daily
+rdpeng/ProgrammingAssignment2,R,874,143957,0,Repository for Programming Assignment 2 for R Programming on Coursera,daily
+broadinstitute/infercnv,R,647,176,1,Inferring CNV from Single-Cell RNA-Seq,daily
+sqjin/CellChat,R,748,166,0,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",daily
+rstudio/shiny,R,5573,1876,2,Easy interactive web applications with R,daily
+benjjneb/dada2,R,526,157,0,Accurate sample inference from amplicon data with single nucleotide resolution,daily
+JGCRI/gcam-core,R,372,199,0,GCAM -- The Global Change Analysis Model,daily
+kassambara/ggpubr,R,1223,179,1,'ggplot2' Based Publication Ready Plots,daily
+jokergoo/ComplexHeatmap,R,1445,243,1,Make Complex Heatmaps,daily
+plotly/plotly.R,R,2657,636,1,An interactive graphing library for R,daily
+swirldev/swirl_courses,R,4505,7238,1,🎓 A collection of interactive courses for the swirl R package.,daily
+briatte/awesome-network-analysis,R,3903,627,0,A curated list of awesome network analysis resources.,daily
+tidyverse/dplyr,R,4972,2132,2,dplyr: A grammar of data manipulation,daily
+chris-mcginnis-ucsf/DoubletFinder,R,511,124,0,R package for detecting doublets in single-cell RNA sequencing data,daily
+JGCRI/gcam-core,R,372,199,1,GCAM -- The Global Change Analysis Model,weekly
+r-lib/devtools,R,2484,766,2,Tools to make an R developer's life easier,weekly
+satijalab/seurat,R,2579,976,4,R toolkit for single cell genomics,weekly
+YuLab-SMU/clusterProfiler,R,1143,264,2,📊 A universal enrichment tool for interpreting omics data,weekly
+tidyverse/ggplot2,R,6833,2113,5,An implementation of the Grammar of Graphics in R,weekly
+kassambara/ggpubr,R,1223,179,2,'ggplot2' Based Publication Ready Plots,weekly
+joey711/phyloseq,R,631,192,2,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",weekly
+rdpeng/ProgrammingAssignment2,R,874,143957,1,Repository for Programming Assignment 2 for R Programming on Coursera,weekly
+chris-mcginnis-ucsf/DoubletFinder,R,511,124,0,R package for detecting doublets in single-cell RNA sequencing data,weekly
+hadley/r4ds,R,4938,4384,5,R for data science: a book,weekly
+immunogenomics/harmony,R,614,104,2,"Fast, sensitive and accurate integration of single-cell data with Harmony",weekly
+stuart-lab/signac,R,396,102,1,R toolkit for the analysis of single-cell chromatin data,weekly
+briatte/awesome-network-analysis,R,3903,627,9,A curated list of awesome network analysis resources.,weekly
+jokergoo/ComplexHeatmap,R,1445,243,2,Make Complex Heatmaps,weekly
+broadinstitute/infercnv,R,647,176,2,Inferring CNV from Single-Cell RNA-Seq,weekly
+satijalab/seurat,R,2579,976,30,R toolkit for single cell genomics,monthly
+Rdatatable/data.table,R,3809,1018,12,R's data.table package extends data.frame:,monthly
+hadley/r4ds,R,4938,4384,26,R for data science: a book,monthly
+YuLab-SMU/clusterProfiler,R,1143,264,8,📊 A universal enrichment tool for interpreting omics data,monthly
+tidyverse/ggplot2,R,6833,2113,30,An implementation of the Grammar of Graphics in R,monthly
+qinwf/awesome-R,R,6364,1515,29,"A curated list of awesome R packages, frameworks and software.",monthly
+broadinstitute/infercnv,R,647,176,4,Inferring CNV from Single-Cell RNA-Seq,monthly
+tidyverse/dplyr,R,4972,2132,26,dplyr: A grammar of data manipulation,monthly
+r-spatial/sf,R,1405,299,8,Simple Features for R,monthly
+benjjneb/dada2,R,526,157,4,Accurate sample inference from amplicon data with single nucleotide resolution,monthly
+prisma-flowdiagram/PRISMA2020,R,226,98,6,Produce PRISMA-2020 compliant flow diagrams,monthly
+joey711/phyloseq,R,631,192,6,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",monthly
+rstudio/renv,R,1115,162,8,renv: Project environments for R.,monthly
+chris-mcginnis-ucsf/DoubletFinder,R,511,124,9,R package for detecting doublets in single-cell RNA sequencing data,monthly
+immunogenomics/harmony,R,614,104,12,"Fast, sensitive and accurate integration of single-cell data with Harmony",monthly
+rstudio/shiny,R,5573,1876,30,Easy interactive web applications with R,monthly
+jokergoo/ComplexHeatmap,R,1445,243,15,Make Complex Heatmaps,monthly
+testssl/testssl.sh,Shell,8733,1107,1,Testing TLS/SSL encryption anywhere on any port,daily
+google/oss-fuzz,Shell,11686,2547,8,OSS-Fuzz - continuous fuzzing for open source software.,daily
+termux/termux-packages,Shell,15287,3761,4,A package build system for Termux.,daily
+github/spec-kit,Python,53063,4566,326,💫 Toolkit to help you get started with Spec-Driven Development,daily
+k4m4/movies-for-hackers,Shell,11521,948,1,🎬 A curated list of movies every hacker & cyberpunk must watch.,daily
+community-scripts/ProxmoxVE,Shell,23483,2096,39,Proxmox VE Helper-Scripts (Community Edition),daily
+llm-d/llm-d,Shell,2122,255,4,Achieve state of the art inference performance with modern accelerators on Kubernetes,daily
+nelvko/clash-for-linux-install,Shell,6446,824,39,😼 优雅地使用基于 clash/mihomo 的代理环境,daily
+pi-hole/pi-hole,Shell,54595,2932,29,A black hole for Internet advertisements,daily
+kserve/kserve,Shell,4862,1315,7,"Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",daily
+JamesTurland/JimsGarage,Shell,4242,825,3,Homelab Goodies,daily
+Mexit/MultiOS-USB,Shell,617,50,2,Boot operating systems directly from ISO/WIM images,daily
+Meliox/PVE-mods,Shell,1327,78,2,Proxmox modifications,daily
+mylinuxforwork/dotfiles,Shell,4059,306,6,"The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install with the Dotfiles Installer app with setup scripts for Arch, Fedora and openSuse.",daily
+ExtremeXT/ExtremeROM,Shell,481,113,0,Work-in-progress custom ROM for various Samsung Galaxy devices.,daily
+youngyangyang04/leetcode-master,Shell,59431,12266,23,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀,daily
+j-hc/revanced-magisk-module,Shell,6525,958,5,Extensive ReVanced builder. Builds both modules and APKs. Updated daily.,daily
+catppuccin/tmux,Shell,2681,781,2,💽 Soothing pastel theme for Tmux,daily
+MacRimi/ProxMenux,Shell,1725,97,73,ProxMenux An Interactive Menu for Proxmox VE Management,weekly
+kholia/OSX-KVM,Shell,22513,1971,30,Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.,weekly
+mack-a/v2ray-agent,Shell,17803,5185,94,Xray、Tuic、hysteria2、sing-box 八合一一键脚本,weekly
+HyDE-Project/HyDE,Shell,7404,515,117,"HyDE, your Development Environment 🖥️💻",weekly
+google/oss-fuzz,Shell,11686,2547,24,OSS-Fuzz - continuous fuzzing for open source software.,weekly
+kanshurichard/enableAppleAI,Shell,3033,139,83,"Enable Apple Intelligence on Macs sold in Mainland China with SIP enabled, tested on MacOS 15.4.1+ and 26.1 beta",weekly
+pi-hole/pi-hole,Shell,54595,2932,152,A black hole for Internet advertisements,weekly
+basecamp/omakub,Shell,7838,776,21,Opinionated Ubuntu Setup,weekly
+233boy/sing-box,Shell,2317,1090,54,最好用的 sing-box 一键安装脚本 & 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议,weekly
+nelvko/clash-for-linux-install,Shell,6446,824,205,😼 优雅地使用基于 clash/mihomo 的代理环境,weekly
+conda-forge/miniforge,Shell,8930,454,40,A conda-forge distribution.,weekly
+itzg/docker-minecraft-server,Shell,12559,1797,47,"Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup",weekly
+llm-d/llm-d,Shell,2122,255,22,Achieve state of the art inference performance with modern accelerators on Kubernetes,weekly
+youngyangyang04/leetcode-master,Shell,59431,12266,123,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀,weekly
+docker-library/official-images,Shell,6847,2461,10,"Primary source of truth for the Docker ""Official Images"" program",weekly
+masonr/yet-another-bench-script,Shell,5965,541,64,"YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench",weekly
+kserve/kserve,Shell,4862,1315,41,"Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",weekly
+bats-core/bats-core,Shell,5676,455,18,Bash Automated Testing System,weekly
+nvm-sh/nvm,Shell,90206,9641,1454,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,monthly
+pi-hole/docker-pi-hole,Shell,10418,1228,187,The official Pi-hole Docker image from pi-hole.net,monthly
+pi-hole/pi-hole,Shell,54595,2932,595,A black hole for Internet advertisements,monthly
+ublue-os/bazzite,Shell,7066,594,449,"Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.",monthly
+community-scripts/ProxmoxVE,Shell,23483,2096,1142,Proxmox VE Helper-Scripts (Community Edition),monthly
+MacRimi/ProxMenux,Shell,1725,97,628,ProxMenux An Interactive Menu for Proxmox VE Management,monthly
+llm-d/llm-d,Shell,2122,255,169,Achieve state of the art inference performance with modern accelerators on Kubernetes,monthly
+agarrharr/awesome-cli-apps,Shell,18067,1012,233,🖥 📊 🕹 🛠 A curated list of command line apps,monthly
+armbian/build,Shell,4979,2772,51,"Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 & armhf",monthly
+nelvko/clash-for-linux-install,Shell,6446,824,1031,😼 优雅地使用基于 clash/mihomo 的代理环境,monthly
+awesome-jellyfin/awesome-jellyfin,Shell,5410,150,424,"A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",monthly
+HyDE-Project/HyDE,Shell,7404,515,748,"HyDE, your Development Environment 🖥️💻",monthly
+termux/termux-packages,Shell,15287,3761,198,A package build system for Termux.,monthly
+Snowy-Fluffy/zapret.installer,Shell,539,19,74,,monthly
+basecamp/omarchy,Shell,17958,1744,1797,"Beautiful, Modern & Opinionated Linux",monthly
+linux-surface/linux-surface,Shell,6550,286,134,Linux Kernel for Surface Devices,monthly
+gpakosz/.tmux,Shell,23860,3522,160,"Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍",monthly
+itzg/docker-minecraft-server,Shell,12559,1797,251,"Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup",monthly
+233boy/v2ray,Shell,27517,16645,286,最好用的 V2Ray 一键安装脚本 & 管理脚本,monthly
+rockerBOO/awesome-neovim,Shell,19606,904,277,Collections of awesome neovim plugins.,monthly
+google/adk-docs,HTML,987,673,1,"An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",daily
+facebookresearch/fastText,HTML,26436,4814,3,Library for fast text representation and classification.,daily
+uiverse-io/galaxy,HTML,8324,514,23,The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.,daily
+kananinirav/AWS-Certified-Cloud-Practitioner-Notes,HTML,3613,1307,12,AWS Certified Cloud Practitioner Short Notes And Practice Exams (CLF-C02),daily
+square/retrofit,HTML,43806,7348,2,A type-safe HTTP client for Android and the JVM,daily
+whatwg/html,HTML,8992,3066,2,HTML Standard,daily
+Sjj1024/PakePlus,HTML,7929,4246,39,Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app,daily
+docker/awesome-compose,HTML,42719,7865,16,Awesome Docker Compose samples,daily
+trickest/cve,HTML,7407,942,2,Gather and update all available and newest CVEs with their PoC.,daily
+tc39/proposal-pipeline-operator,HTML,7855,109,0,A proposal for adding a useful pipe operator to JavaScript.,daily
+judge0/judge0,HTML,3681,755,4,Robust and scalable online code execution system.,daily
+joyce677/TrendRadar,HTML,1219,642,3,一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用,daily
+htr-tech/zphisher,HTML,14967,5550,9,An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !,daily
+web-platform-tests/wpt,HTML,5641,3576,1,"Test suites for Web platform specs — including WHATWG, W3C, and others",daily
+rfordatascience/tidytuesday,HTML,7855,2528,5,Official repo for the #tidytuesday project,daily
+gustavoguanabara/html-css,HTML,15732,3776,8,Curso de HTML5 e CSS3,daily
+DataDog/documentation,HTML,564,1237,1,The source for Datadog's documentation site.,daily
+EmptyLibra/Configure-Xray-with-VLESS-Reality-on-VPS-server,HTML,1205,291,1,"Подробная инструкция (как в pdf, так и в md формате) о настройке своего совбственного Xray-VPS-сервера (с протоколом VLESS XTLS-Reality через панель 3x-ui), а также настройке клиентских приложений (ПК и телефон)",daily
+horilla-opensource/horilla,HTML,939,635,5,Horilla is a free and open source HR and CRM software.,daily
+techchipnet/CamPhish,HTML,4277,1165,2,Grab cam shots & GPS location from target's phone front camera or PC webcam just sending a link.,daily
+PKUFlyingPig/cs-self-learning,HTML,69678,7747,173,计算机自学指南,weekly
+google/adk-docs,HTML,987,673,12,"An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",weekly
+OWASP/Top10,HTML,4984,964,31,Official OWASP Top 10 Document Repository,weekly
+Balackburn/Apollo,HTML,1100,53,12,Altstore source and website for Apollo for Reddit (with ImprovedCustomApi),weekly
+techchipnet/CamPhish,HTML,4277,1165,25,Grab cam shots & GPS location from target's phone front camera or PC webcam just sending a link.,weekly
+ranuts/document,JavaScript,1491,142,52,Perform common file preview and editing via the web.,weekly
+home-assistant/home-assistant.io,HTML,7611,8000,38,📘 Home Assistant User documentation,weekly
+kubernetes/website,HTML,5090,15128,7,Kubernetes website and documentation repo:,weekly
+web-platform-tests/wpt,HTML,5641,3576,12,"Test suites for Web platform specs — including WHATWG, W3C, and others",weekly
+uiverse-io/galaxy,HTML,8324,514,184,The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.,weekly
+rfordatascience/tidytuesday,HTML,7855,2528,18,Official repo for the #tidytuesday project,weekly
+trickest/cve,HTML,7407,942,16,Gather and update all available and newest CVEs with their PoC.,weekly
+google/fonts,HTML,19477,2810,32,"Font files available from Google Fonts, and a public issue tracker for all things Google Fonts",weekly
+hillelkingqt/GeminiDesk,JavaScript,331,34,28,"An unofficial Electron-based Gemini Desktop App for Google Gemini – clean, fast, and always accessible.",weekly
+uiverse-io/galaxy,HTML,8324,514,2340,The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.,monthly
+OWASP/Top10,HTML,4984,964,140,Official OWASP Top 10 Document Repository,monthly
+PKUFlyingPig/cs-self-learning,HTML,69678,7747,1313,计算机自学指南,monthly
+google/adk-docs,HTML,987,673,380,"An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",monthly
+Chuyu-Team/Dism-Multi-language,HTML,18410,1157,257,Dism++ Multi-language Support & BUG Report,monthly
+windmill-labs/windmill,HTML,15226,852,204,"Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.",monthly
+QSCTech/zju-icicles,HTML,39871,9601,202,浙江大学课程攻略共享计划,monthly
+github/opensource.guide,HTML,15035,15173,97,📚 Community guides for open source creators,monthly
+EmptyLibra/Configure-Xray-with-VLESS-Reality-on-VPS-server,HTML,1205,291,104,"Подробная инструкция (как в pdf, так и в md формате) о настройке своего совбственного Xray-VPS-сервера (с протоколом VLESS XTLS-Reality через панель 3x-ui), а также настройке клиентских приложений (ПК и телефон)",monthly
+yogeshojha/rengine,HTML,8310,1280,56,"reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance with…",monthly
+home-assistant/home-assistant.io,HTML,7611,8000,178,📘 Home Assistant User documentation,monthly
+academicpages/academicpages.github.io,HTML,15991,4258,282,"Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.",monthly
+simonw/tools,HTML,1073,123,44,"Assorted useful tools, almost entirely generated using LLMs",monthly
+MHSanaei/3x-ui,HTML,26679,5370,1244,"Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP)",monthly
+vernesong/OpenClash,HTML,22932,3647,478,A Clash Client For OpenWrt,monthly
+google/fonts,HTML,19477,2810,136,"Font files available from Google Fonts, and a public issue tracker for all things Google Fonts",monthly
+ArjanCodes/examples,HTML,979,298,89,All the code examples I use in my videos,monthly
+rfordatascience/tidytuesday,HTML,7855,2528,82,Official repo for the #tidytuesday project,monthly
+xeefei/X-Panel,HTML,1455,339,135,〔X-Panel 面板〕，Xray panel supporting multi-protocol multi-user expire day & traffic & Device restrictions (Vless & XTLS & Reality & XHTTP & Vision Seed & Switch)，集成【一键配置】生成功能。,monthly
+Sjj1024/PakePlus,HTML,7929,4246,1357,Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app,monthly
+you-dont-need/You-Dont-Need-JavaScript,HTML,20410,1511,40,"CSS is powerful, you can do a lot of things without JS.",monthly
+Anonym-tsk/nfqws-keenetic,CSS,1699,115,3,,daily
+BingyanStudio/LapisCV,CSS,3956,252,3,📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian,daily
+IBM/plex,CSS,11067,603,5,"The package of IBM’s typeface, IBM Plex.",daily
+supabase/supabase-js,CSS,4133,538,0,"An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.",daily
+uvdesk/community-skeleton,CSS,16928,547,18,"UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering robust features to streamline customer support and collaboration.",daily
+rime/home,CSS,4689,240,3,Rime::Home is home to Rime users and developers,daily
+hkhcoder/vprofile-project,CSS,1029,5640,1,,daily
+ryanoasis/nerd-fonts,CSS,60706,3845,14,"Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",daily
+ColorlibHQ/AdminLTE,CSS,45195,18266,1,AdminLTE - Free admin dashboard template based on Bootstrap 5,daily
+bradtraversy/50projects50days,CSS,40199,9732,4,"50+ mini web projects using HTML, CSS & JS",daily
+missing-semester-cn/missing-semester-cn.github.io,CSS,6781,1130,2,the CS missing semester Chinese version,daily
+nicejade/markdown-online-editor,CSS,3408,502,1,📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。https://www.niceshare.site,daily
+MrOtherGuy/firefox-csshacks,CSS,4235,363,1,Collection of userstyles affecting the browser,daily
+isocpp/CppCoreGuidelines,CSS,44494,5533,3,"The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",daily
+aws-samples/amplify-next-template,CSS,193,3204,0,This is a Next.js starter for building a fullstack app with AWS Amplify.,daily
+supabase/supabase-js,CSS,4133,538,17,"An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.",weekly
+nicejade/markdown-online-editor,CSS,3408,502,19,📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。https://www.niceshare.site,weekly
+animate-css/animate.css,CSS,82502,16143,40,🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.,weekly
+ColorlibHQ/AdminLTE,CSS,45195,18266,27,AdminLTE - Free admin dashboard template based on Bootstrap 5,weekly
+bradtraversy/50projects50days,CSS,40199,9732,58,"50+ mini web projects using HTML, CSS & JS",weekly
+alex-shpak/hugo-book,CSS,3879,1301,19,Hugo documentation theme as simple as plain book,weekly
+uvdesk/community-skeleton,CSS,16928,547,105,"UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering robust features to streamline customer support and collaboration.",weekly
+opera-gaming/gxmods,CSS,875,3710,1,Documentation for GX mods,weekly
+obsidianmd/obsidian-help,CSS,1488,447,4,Help documentation for Obsidian.,weekly
+MrOtherGuy/firefox-csshacks,CSS,4235,363,8,Collection of userstyles affecting the browser,weekly
+hkhcoder/vprofile-project,CSS,1029,5640,13,,weekly
+BingyanStudio/LapisCV,CSS,3956,252,14,📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian,weekly
+learningequality/kolibri,CSS,956,841,3,Kolibri Learning Platform: the offline app for universal education,weekly
+supabase/supabase-js,CSS,4133,538,88,"An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.",monthly
+lscambo13/ElegantFin,CSS,1022,69,181,A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX.,monthly
+Anonym-tsk/nfqws-keenetic,CSS,1699,115,78,,monthly
+ColorlibHQ/AdminLTE,CSS,45195,18266,115,AdminLTE - Free admin dashboard template based on Bootstrap 5,monthly
+kayozxo/GNOME-macOS-Tahoe,CSS,737,27,58,MacOS Tahoe inspired theme for GNOME,monthly
+bradtraversy/50projects50days,CSS,40199,9732,265,"50+ mini web projects using HTML, CSS & JS",monthly
+WebStackPage/WebStackPage.github.io,CSS,7130,2052,56,❤️静态响应式网址导航网站 - webstack.cc,monthly
+BingyanStudio/LapisCV,CSS,3956,252,72,📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian,monthly
+isocpp/CppCoreGuidelines,CSS,44494,5533,180,"The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",monthly
+Diolinux/PhotoGIMP,CSS,6258,168,140,A Patch for GIMP 3+ for Photoshop Users,monthly
+progit/progit2,CSS,6338,2072,47,Pro Git 2nd Edition,monthly
+aws-samples/amplify-next-template,CSS,193,3204,7,This is a Next.js starter for building a fullstack app with AWS Amplify.,monthly
+Wombosvideo/tw-animate-css,CSS,612,12,52,TailwindCSS v4.0 compatible replacement for `tailwindcss-animate`,monthly
+primefaces/primereact,CSS,8130,1188,62,The Most Complete React UI Component Library,monthly
+ryanoasis/nerd-fonts,CSS,60706,3845,471,"Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",monthly
+MrOtherGuy/firefox-csshacks,CSS,4235,363,44,Collection of userstyles affecting the browser,monthly
+Daymychen/art-design-pro,Vue,4402,820,6,A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.,daily
+moeru-ai/airi,Vue,15905,1448,19,"💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",daily
+zxwk1998/vue-admin-better,Vue,18311,3858,14,"🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro",daily
+imsyy/SPlayer,Vue,5701,985,9,🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player,daily
+yangzongzhuan/RuoYi-Vue3,Vue,6196,2369,5,🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统,daily
+frappe/builder,Vue,1708,382,3,Craft beautiful websites effortlessly with an intuitive visual builder and publish them instantly,daily
+bastienwirtz/homer,Vue,10870,884,5,A very simple static homepage for your server.,daily
+frappe/crm,Vue,2068,747,3,"Fully featured, open source CRM",daily
+requarks/wiki,Vue,27423,3106,8,Wiki.js | A modern and powerful wiki app built on Node.js,daily
+frappe/lms,Vue,2474,1028,5,"Easy to Use, 100% Open Source Learning Management System",daily
+ElemeFE/element,Vue,54233,14576,2,A Vue.js 2.0 UI Toolkit for Web,daily
+PanJiaChen/vue-element-admin,Vue,90181,30653,7,🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin,daily
+unovue/reka-ui,Vue,5913,451,7,"An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue",daily
+pipipi-pikachu/PPTist,Vue,8308,1636,6,"PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Support AIPPT.",daily
+vueComponent/ant-design-vue,Vue,21274,3893,4,🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜,daily
+un-pany/v3-admin-vite,Vue,6713,1134,7,☀️ A crafted Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板,daily
+unovue/shadcn-vue,TypeScript,8810,575,18,Vue port of shadcn-ui,daily
+frappe/frappe-ui,Vue,755,259,0,A set of components and utilities for rapid UI development,daily
+CorentinTh/it-tools,Vue,34486,4284,26,"Collection of handy online tools for developers, with great UX.",daily
+OpenCSGs/csghub,Vue,5756,713,7,"CSGHub is a brand-new open-source platform for managing LLMs, developed by the OpenCSG team. It offers both open-source and on-premise/SaaS solutions, with features comparable to Hugging Face. Gain full control over the lifecycle of LLMs, datasets, and agents, with Python SDK compatibility with Hugging Face. Join us! ⭐️",weekly
+Daymychen/art-design-pro,Vue,4402,820,133,A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.,weekly
+HoshinoSuzumi/chronoframe,Vue,1121,75,54,"Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.",weekly
+zxwk1998/vue-admin-better,Vue,18311,3858,65,"🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro",weekly
+pipipi-pikachu/PPTist,Vue,8308,1636,51,"PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Support AIPPT.",weekly
+bastienwirtz/homer,Vue,10870,884,34,A very simple static homepage for your server.,weekly
+vbenjs/vue-vben-admin,Vue,30782,8355,103,"A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",weekly
+Zephyruso/zashboard,Vue,1940,171,32,A Dashboard Using Clash API,weekly
+michlampert/mObywatel-improvements,Vue,61,107,3,,weekly
+doocs/md,Vue,11098,1879,39,✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性,weekly
+primefaces/primevue,Vue,13761,1606,36,Next Generation Vue UI Component Library,weekly
+scalar/scalar,Vue,12985,692,59,Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support,weekly
+nuxt/ui,Vue,5882,958,28,The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.,weekly
+dullage/flatnotes,Vue,2591,153,25,"A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.",weekly
+hslr-s/sun-panel,Vue,4704,540,27,"A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。",weekly
+PanJiaChen/vue-element-admin,Vue,90181,30653,42,🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin,weekly
+yudaocode/yudao-ui-admin-vben,Vue,517,211,12,ruoyi-vue-pro-vben 芋道管理后台，基于 vben5.0 最新版本，最新的 vue3 vite6 ant-design-vue typescript 语法进行重构开发，支持 springboot3 springcloud 版本,weekly
+zyronon/TypeWords,Vue,5837,713,831,"练习英语，一次敲击，一点进步；Practice English, one strike, one step forward",monthly
+HuLaSpark/HuLa,Vue,5213,715,793,"🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）",monthly
+pipipi-pikachu/PPTist,Vue,8308,1636,228,"PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Support AIPPT.",monthly
+tiny-craft/tiny-rdm,Vue,12235,600,205,"Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.",monthly
+HoshinoSuzumi/chronoframe,Vue,1121,75,348,"Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.",monthly
+unovue/shadcn-vue,TypeScript,8810,575,282,Vue port of shadcn-ui,monthly
+vbenjs/vue-vben-admin,Vue,30782,8355,384,"A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",monthly
+Daymychen/art-design-pro,Vue,4402,820,776,A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.,monthly
+Lissy93/dashy,Vue,23257,1701,335,"🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",monthly
+OpenCSGs/csghub,Vue,5756,713,1015,"CSGHub is a brand-new open-source platform for managing LLMs, developed by the OpenCSG team. It offers both open-source and on-premise/SaaS solutions, with features comparable to Hugging Face. Gain full control over the lifecycle of LLMs, datasets, and agents, with Python SDK compatibility with Hugging Face. Join us! ⭐️",monthly
+frappe/builder,Vue,1708,382,798,Craft beautiful websites effortlessly with an intuitive visual builder and publish them instantly,monthly
+unovue/reka-ui,Vue,5913,451,155,"An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue",monthly
+Simon-He95/markstream-vue,Vue,1234,81,447,"A Vue 3 renderer specifically built for AI-powered streaming Markdown: Monaco incremental, Mermaid progressive, and KaTeX formula speed, with real-time updates and no jitter, ready to use out of the box.",monthly
+nuxt-ui-templates/dashboard,Vue,809,200,46,Nuxt Dashboard Template made with Nuxt UI.,monthly
+Gzh0821/pvzg_site,Vue,748,42,58,PvZ2 Gardendless Official Website | A rewritten Plants vs Zombies 2 PC port,monthly
+yangzongzhuan/RuoYi-Vue3,Vue,6196,2369,108,🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统,monthly
+DavidHDev/vue-bits,Vue,3301,112,319,"An open source collection of animated, interactive & fully customizable Vue components for building stunning, memorable websites.",monthly
+dullage/flatnotes,Vue,2591,153,136,"A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.",monthly
+microsoft/ai-agents-for-beginners,Jupyter Notebook,45924,15710,50,12 Lessons to Get Started Building AI Agents,daily
+jackfrued/Python-100-Days,Jupyter Notebook,175767,55025,64,Python - 100天从新手到大师,daily
+huggingface/cookbook,Jupyter Notebook,2524,383,3,Open-source AI cookbook,daily
+kubernetes/community,Jupyter Notebook,12655,5323,4,Kubernetes community content,daily
+fchollet/deep-learning-with-python-notebooks,Jupyter Notebook,19749,8975,1,"Jupyter notebooks for the code samples of the book ""Deep Learning with Python""",daily
+Marktechpost/AI-Tutorial-Codes-Included,Jupyter Notebook,1791,396,13,Codes/Notebooks for AI Projects,daily
+Pierian-Data/Complete-Python-3-Bootcamp,Jupyter Notebook,29186,87385,6,Course Files for Complete Python 3 Bootcamp Course on Udemy,daily
+NirDiamant/agents-towards-production,Jupyter Notebook,15534,2028,28,"This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.",daily
+facebookresearch/sam2,Jupyter Notebook,17888,2256,13,"The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",daily
+google-deepmind/mujoco_playground,Jupyter Notebook,1605,250,4,An open-source library for GPU-accelerated robot learning and sim-to-real transfer.,daily
+salesforce/BLIP,Jupyter Notebook,5594,746,1,PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation,daily
+microsoft/generative-ai-for-beginners,Jupyter Notebook,102607,54633,32,"21 Lessons, Get Started Building with Generative AI",daily
+ed-donner/llm_engineering,Jupyter Notebook,4056,3628,12,Repo to accompany my mastering LLM engineering course,daily
+pathwaycom/llm-app,Jupyter Notebook,47713,1225,38,"Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",daily
+datawhalechina/llm-cookbook,Jupyter Notebook,22482,2722,17,面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版,daily
+QwenLM/Qwen3-VL,Jupyter Notebook,16908,1396,37,"Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",daily
+GoogleCloudPlatform/vertex-ai-creative-studio,Jupyter Notebook,843,252,20,"GenMedia Creative Studio is a Vertex AI generative media user experience highlighting the use of Imagen, Veo, Gemini 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud.",weekly
+microsoft/ai-agents-for-beginners,Jupyter Notebook,45924,15710,494,12 Lessons to Get Started Building AI Agents,weekly
+HandsOnLLM/Hands-On-Large-Language-Models,Jupyter Notebook,18199,4303,112,"Official code repo for the O'Reilly Book - ""Hands-On Large Language Models""",weekly
+jackfrued/Python-100-Days,Jupyter Notebook,175767,55025,421,Python - 100天从新手到大师,weekly
+PriorLabs/TabPFN,Jupyter Notebook,5062,498,71,⚡ TabPFN: Foundation Model for Tabular Data ⚡,weekly
+microsoft/ML-For-Beginners,Jupyter Notebook,79493,18518,225,"12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",weekly
+karpathy/nn-zero-to-hero,Jupyter Notebook,18975,2638,138,Neural Networks: Zero to Hero,weekly
+facebookresearch/sam2,Jupyter Notebook,17888,2256,88,"The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",weekly
+mml-book/mml-book.github.io,Jupyter Notebook,14792,2675,20,"Companion webpage to the book ""Mathematics For Machine Learning""",weekly
+DataTalksClub/mlops-zoomcamp,Jupyter Notebook,13747,2766,46,Free MLOps course from DataTalks.Club,weekly
+microsoft/mcp-for-beginners,Jupyter Notebook,13516,4397,91,"This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",weekly
+DataExpert-io/data-engineer-handbook,Jupyter Notebook,38865,7467,92,This is a repo with links to everything you'd ever want to learn about data engineering,weekly
+NirDiamant/RAG_Techniques,Jupyter Notebook,23284,2665,151,This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.,weekly
+NVIDIA/accelerated-computing-hub,Jupyter Notebook,907,164,18,NVIDIA curated collection of educational resources related to general purpose GPU programming.,weekly
+ed-donner/llm_engineering,Jupyter Notebook,4056,3628,65,Repo to accompany my mastering LLM engineering course,weekly
+sokrypton/ColabFold,Jupyter Notebook,2533,668,15,Making Protein folding accessible to all!,weekly
+meta-llama/llama-cookbook,Jupyter Notebook,18064,2657,14,"Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services",weekly
+dusty-nv/jetson-containers,Jupyter Notebook,4002,758,28,Machine Learning Containers for NVIDIA Jetson and JetPack-L4T,weekly
+QwenLM/Qwen3-VL,Jupyter Notebook,16908,1396,1089,"Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",monthly
+karpathy/micrograd,Jupyter Notebook,13937,2075,356,A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API,monthly
+patchy631/ai-engineering-hub,Jupyter Notebook,21193,3525,843,"In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",monthly
+microsoft/mcp-for-beginners,Jupyter Notebook,13516,4397,910,"This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",monthly
+anthropics/prompt-eng-interactive-tutorial,Jupyter Notebook,27033,2531,1390,Anthropic's Interactive Prompt Engineering Tutorial,monthly
+NVIDIA/Isaac-GR00T,Jupyter Notebook,5480,862,262,NVIDIA Isaac GR00T N1.5 - A Foundation Model for Generalist Robots.,monthly
+datawhalechina/llm-cookbook,Jupyter Notebook,22482,2722,500,面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版,monthly
+ed-donner/llm_engineering,Jupyter Notebook,4056,3628,285,Repo to accompany my mastering LLM engineering course,monthly
+NVIDIA/GenerativeAIExamples,Jupyter Notebook,3639,924,86,Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.,monthly
+facebookresearch/sam2,Jupyter Notebook,17888,2256,419,"The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",monthly
+microsoft/fabric-toolbox,Jupyter Notebook,563,216,45,"Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your success with Microsoft Fabric, brought to you by Fabric CAT.",monthly
+PriorLabs/TabPFN,Jupyter Notebook,5062,498,301,⚡ TabPFN: Foundation Model for Tabular Data ⚡,monthly
+kubernetes/community,Jupyter Notebook,12655,5323,59,Kubernetes community content,monthly
+anthropics/courses,Jupyter Notebook,17658,1648,203,Anthropic's educational courses,monthly
+GoogleCloudPlatform/generative-ai,Jupyter Notebook,12144,3554,214,"Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",monthly
+Marktechpost/AI-Tutorial-Codes-Included,Jupyter Notebook,1791,396,311,Codes/Notebooks for AI Projects,monthly
+google-research/vision_transformer,Jupyter Notebook,12077,1430,131,,monthly
+iDvel/rime-ice,Lua,14247,908,18,Rime 配置：雾凇拼音 | 长期维护的简体词库,daily
+xmake-io/xmake,Lua,11524,888,3,🔥 A cross-platform build utility based on Lua,daily
+nvim-lua/kickstart.nvim,Lua,28429,42135,10,A launch point for your personal nvim configuration,daily
+Kong/kong,Lua,42310,5033,9,🦍 The Cloud-Native Gateway for APIs & AI,daily
+apache/apisix,Lua,15917,2730,5,The Cloud-Native API Gateway and AI Gateway,daily
+mikavilpas/yazi.nvim,Lua,1405,45,2,A Neovim Plugin for the yazi terminal file manager,daily
+ibhagwan/fzf-lua,Lua,3898,224,3,Improved fzf.vim written in lua,daily
+sebdelsol/KOReader.patches,Lua,171,4,0,A collection of KOReader user patches that all work well together,daily
+AstroNvim/astrocommunity,Lua,1589,305,2,A community repository of common plugin specifications,daily
+xiaorouji/openwrt-passwall2,Lua,2247,579,7,,daily
+LazyVim/LazyVim,Lua,24112,1670,12,Neovim config for the lazy,daily
+pwntester/octo.nvim,Lua,3022,202,2,Edit and review GitHub issues and pull requests from the comfort of your favorite editor,daily
+folke/trouble.nvim,Lua,6567,203,3,"🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",daily
+akinsho/toggleterm.nvim,Lua,5249,194,3,A neovim lua plugin to help easily manage multiple terminal windows,daily
+amzxyz/rime_wanxiang,Lua,2183,85,17,Rime万象拼音输入方案：一个类大厂习惯的输入方案，首个全带调词库。多版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，7种辅助码，可扩展。支持混合编码输入，内置超级注释、快符、候选手动排序、tips、等功能扩展，大大增强使用体验，详见README和release。　　Q群：11033572,daily
+neovim/nvim-lspconfig,Lua,13042,2382,2,Quickstart configs for Nvim LSP,daily
+mistweaverco/kulala.nvim,Lua,1778,76,2,A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.,daily
+nagadomi/waifu2x,Lua,28071,2704,1,Image Super-Resolution for Anime-Style Art,daily
+folke/todo-comments.nvim,Lua,3964,122,2,"✅ Highlight, list and search todo comments in your projects",daily
+folke/which-key.nvim,Lua,6751,237,2,"💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",daily
+xiaorouji/openwrt-passwall,Lua,8867,2847,6,,daily
+kawre/leetcode.nvim,Lua,1905,90,2,A Neovim plugin enabling you to solve LeetCode problems.,daily
+m4xshen/hardtime.nvim,Lua,3542,43,1,"Break bad habits, master Vim motions",daily
+folke/snacks.nvim,Lua,6619,372,68,🍿 A collection of QoL plugins for Neovim,weekly
+typecraft-dev/dotfiles,Lua,1227,240,15,,weekly
+PathOfBuildingCommunity/PathOfBuilding,Lua,5027,2224,7,Offline build planner for Path of Exile.,weekly
+beyond-all-reason/Beyond-All-Reason,Lua,2644,495,12,Main game repository for Beyond All Reason.,weekly
+mehah/otclient,Lua,406,327,7,"An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize",weekly
+mikavilpas/yazi.nvim,Lua,1405,45,18,A Neovim Plugin for the yazi terminal file manager,weekly
+xiaorouji/openwrt-passwall2,Lua,2247,579,22,,weekly
+josean-dev/dev-environment-files,Lua,3782,879,13,,weekly
+AstroNvim/astrocommunity,Lua,1589,305,6,A community repository of common plugin specifications,weekly
+apache/apisix,Lua,15917,2730,31,The Cloud-Native API Gateway and AI Gateway,weekly
+nvim-orgmode/orgmode,Lua,3592,166,13,Orgmode clone written in Lua for Neovim 0.11.0+.,weekly
+nvim-telescope/telescope.nvim,Lua,18679,930,44,"Find, Filter, Preview, Pick. All lua, all the time.",weekly
+xiaorouji/openwrt-passwall,Lua,8867,2847,33,,weekly
+ThePrimeagen/harpoon,Lua,8730,466,21,,weekly
+pmizio/typescript-tools.nvim,Lua,2047,68,8,⚡ TypeScript integration NeoVim deserves ⚡,weekly
+Arrow-kb/FS25_RealisticLivestock,Lua,236,28,1,,weekly
+Stephan-S/FS25_AutoDrive,Lua,558,35,4,FS25 version of the AutoDrive mod,weekly
+nvim-neotest/neotest,Lua,2963,163,6,An extensible framework for interacting with tests within NeoVim.,weekly
+folke/todo-comments.nvim,Lua,3964,122,15,"✅ Highlight, list and search todo comments in your projects",weekly
+folke/snacks.nvim,Lua,6619,372,310,🍿 A collection of QoL plugins for Neovim,monthly
+apache/apisix,Lua,15917,2730,140,The Cloud-Native API Gateway and AI Gateway,monthly
+koreader/koreader,Lua,24359,1573,472,"An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",monthly
+PathOfBuildingCommunity/PathOfBuilding,Lua,5027,2224,69,Offline build planner for Path of Exile.,monthly
+nvim-lua/kickstart.nvim,Lua,28429,42135,497,A launch point for your personal nvim configuration,monthly
+iDvel/rime-ice,Lua,14247,908,664,Rime 配置：雾凇拼音 | 长期维护的简体词库,monthly
+josean-dev/dev-environment-files,Lua,3782,879,58,,monthly
+folke/tokyonight.nvim,Lua,7630,497,89,"🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",monthly
+amzxyz/rime_wanxiang,Lua,2183,85,360,Rime万象拼音输入方案：一个类大厂习惯的输入方案，首个全带调词库。多版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，7种辅助码，可扩展。支持混合编码输入，内置超级注释、快符、候选手动排序、tips、等功能扩展，大大增强使用体验，详见README和release。　　Q群：11033572,monthly
+folke/lazy.nvim,Lua,19574,512,317,💤 A modern plugin manager for Neovim,monthly
+Kong/kong,Lua,42310,5033,232,🦍 The Cloud-Native Gateway for APIs & AI,monthly
+folke/flash.nvim,Lua,3736,60,102,"Navigate your code with search labels, enhanced character motions and Treesitter integration",monthly
+nvim-lualine/lualine.nvim,Lua,7567,529,85,A blazing fast and easy to configure neovim statusline plugin written in pure lua.,monthly
+yetone/avante.nvim,Lua,16589,752,281,Use your Neovim like using Cursor AI IDE!,monthly
+xiaorouji/openwrt-passwall2,Lua,2247,579,97,,monthly
+folke/todo-comments.nvim,Lua,3964,122,65,"✅ Highlight, list and search todo comments in your projects",monthly
+folke/noice.nvim,Lua,5461,154,58,"💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",monthly
+hrsh7th/nvim-cmp,Lua,9223,432,76,A completion plugin for neovim coded in Lua.,monthly
+lewis6991/gitsigns.nvim,Lua,6368,242,82,Git integration for buffers,monthly
+brendangregg/FlameGraph,Perl,19018,2066,3,Stack trace visualizer,daily
+AlDanial/cloc,Perl,22108,1088,7,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",daily
+ddclient/ddclient,Perl,3222,373,1,ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.,daily
+major/MySQLTuner-perl,Perl,9399,1295,1,MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.,daily
+OpenKore/openkore,Perl,1432,1183,0,A free/open source client and automation tool for Ragnarok Online,daily
+ocpi/ocpi,Perl,532,223,0,"The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",daily
+inverse-inc/packetfence,Perl,1565,312,0,"PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",daily
+adrienverge/openfortivpn,Perl,3132,357,0,Client for PPP+TLS VPN tunnel services,daily
+trinityrnaseq/trinityrnaseq,Perl,876,321,0,Trinity RNA-Seq de novo transcriptome assembly,daily
+tseemann/prokka,Perl,942,233,0,⚡ ♒ Rapid prokaryotic genome annotation,daily
+LMS-Community/slimserver,Perl,1553,343,0,Server for Squeezebox and compatible players. This server is also called Lyrion Music Server.,daily
+Gaius-Augustus/BRAKER,Perl,437,89,1,BRAKER is a pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET/EP/ETP and AUGUSTUS in novel eukaryotic genomes,daily
+dejavu-fonts/dejavu-fonts,Perl,858,121,1,,daily
+michaelherger/Spotty-Plugin,Perl,167,27,0,A Spotify plugin for the Lyrion Music Server (fka. Logitech Media Server) and Squeezebox compatible players,daily
+linux-test-project/lcov,Perl,1048,258,1,LCOV,daily
+netdisco/netdisco,Perl,800,93,1,A web-based network management tool.,daily
+keydet89/RegRipper3.0,Perl,666,143,0,RegRipper3.0,daily
+darold/ora2pg,Perl,1162,374,1,"Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",daily
+holzschu/a-shell,Perl,3376,157,0,"A terminal for iOS, with multiple windows",daily
+glpi-project/glpi-agent,Perl,366,97,1,GLPI Agent,daily
+Aetherinox/csf-firewall,Perl,194,36,6,ConfigServer Security & Firewall (CSF) - Robust linux iptables/nftables firewall & free ipset blocklist service.,weekly
+OpenKore/openkore,Perl,1432,1183,1,A free/open source client and automation tool for Ragnarok Online,weekly
+AlDanial/cloc,Perl,22108,1088,51,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",weekly
+michaelherger/Spotty-Plugin,Perl,167,27,1,A Spotify plugin for the Lyrion Music Server (fka. Logitech Media Server) and Squeezebox compatible players,weekly
+brendangregg/FlameGraph,Perl,19018,2066,35,Stack trace visualizer,weekly
+docker-library/repo-info,Perl,586,358,3,Extended information (especially license and layer details) about the published Official Images,weekly
+awsdocs/aws-cdk-guide,Perl,354,230,0,User guide for the AWS Cloud Development Kit (CDK).,weekly
+Perl/perl5,Perl,2200,601,1,🐪 The Perl programming language,weekly
+yaml/yaml-test-suite,Perl,229,78,0,"Comprehensive, language independent Test Suite for YAML",weekly
+ocpi/ocpi,Perl,532,223,3,"The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",weekly
+Zimbra/zm-build,Perl,222,101,0,"zm-build for Zimbra Collaboration Suite, FOSS Edition",weekly
+Perl/PPCs,Perl,72,26,0,This repository is for Proposed Perl Changes - proposals to change the Perl language.,weekly
+netdisco/netdisco,Perl,800,93,2,A web-based network management tool.,weekly
+justingit/dada-mail,Perl,180,42,0,"Self-Hosted, Full Featured, Email Mailing List Manager. Announcement + Discussion Lists, Web-based Installer, Installs with minimal dependencies, sendmail/SMTP/Amazon SES supported",weekly
+oetiker/SmokePing,Perl,1728,204,6,The Active Monitoring System,weekly
+ddclient/ddclient,Perl,3222,373,13,ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.,weekly
+so-fancy/diff-so-fancy,Perl,17871,340,11,Good-lookin' diffs. Actually… nah… The best-lookin' diffs. 🎉,weekly
+LMS-Community/slimserver,Perl,1553,343,8,Server for Squeezebox and compatible players. This server is also called Lyrion Music Server.,weekly
+SpiderLabs/owasp-modsecurity-crs,Perl,2474,732,2,OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository),weekly
+FelixKrueger/TrimGalore,Perl,533,156,1,"A wrapper around Cutadapt and FastQC to consistently apply adapter and quality trimming to FastQ files, with extra functionality for RRBS data",weekly
+OpenKore/openkore,Perl,1432,1183,11,A free/open source client and automation tool for Ragnarok Online,monthly
+Zimbra/zm-build,Perl,222,101,2,"zm-build for Zimbra Collaboration Suite, FOSS Edition",monthly
+znuny/Znuny,Perl,525,111,6,"Znuny is a free, open-source, and versatile web-based ticketing system for Customer Service, Help Desk, IT Service Management, and more. It is built for transparency and long-term sustainability and is highly tailorable to your organization's needs.",monthly
+Aetherinox/csf-firewall,Perl,194,36,35,ConfigServer Security & Firewall (CSF) - Robust linux iptables/nftables firewall & free ipset blocklist service.,monthly
+jimsalterjrs/sanoid,Perl,3599,335,37,These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.),monthly
+Perl/perl5,Perl,2200,601,15,🐪 The Perl programming language,monthly
+adrienverge/openfortivpn,Perl,3132,357,39,Client for PPP+TLS VPN tunnel services,monthly
+inverse-inc/packetfence,Perl,1565,312,14,"PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",monthly
+AlDanial/cloc,Perl,22108,1088,179,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",monthly
+glpi-project/glpi-agent,Perl,366,97,13,GLPI Agent,monthly
+michaelherger/Spotty-Plugin,Perl,167,27,8,A Spotify plugin for the Lyrion Music Server (fka. Logitech Media Server) and Squeezebox compatible players,monthly
+trinityrnaseq/trinityrnaseq,Perl,876,321,0,Trinity RNA-Seq de novo transcriptome assembly,monthly
+so-fancy/diff-so-fancy,Perl,17871,340,33,Good-lookin' diffs. Actually… nah… The best-lookin' diffs. 🎉,monthly
+yaml/yaml-test-suite,Perl,229,78,6,"Comprehensive, language independent Test Suite for YAML",monthly
+centreon/centreon-plugins,Perl,328,296,2,Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.,monthly
+brendangregg/FlameGraph,Perl,19018,2066,155,Stack trace visualizer,monthly
+darold/ora2pg,Perl,1162,374,11,"Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.",monthly
+tseemann/prokka,Perl,942,233,6,⚡ ♒ Rapid prokaryotic genome annotation,monthly
+LMS-Community/slimserver,Perl,1553,343,33,Server for Squeezebox and compatible players. This server is also called Lyrion Music Server.,monthly
+keydet89/RegRipper3.0,Perl,666,143,11,RegRipper3.0,monthly
+docker-library/repo-info,Perl,586,358,6,Extended information (especially license and layer details) about the published Official Images,monthly
+elixir-lang/expert,Elixir,1684,62,3,Official Elixir Language Server Protocol implementation,daily
+blockscout/blockscout,Elixir,4301,2900,4,Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.,daily
+ash-project/ash,Elixir,2210,343,0,"A declarative, extensible framework for building Elixir applications.",daily
+elixir-lang/elixir,Elixir,26129,3479,5,"Elixir is a dynamic, functional language for building scalable and maintainable applications",daily
+supabase/realtime,Elixir,7416,404,1,"Broadcast, Presence, and Postgres Changes via WebSockets",daily
+bonfire-networks/bonfire-app,Elixir,850,60,0,Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.,daily
+firezone/firezone,Elixir,8268,387,3,Enterprise-ready zero-trust access platform built on WireGuard®.,daily
+electric-sql/electric,Elixir,9538,286,9,Real-time sync for Postgres.,daily
+elixir-ecto/ecto,Elixir,6410,1470,2,A toolkit for data mapping and language integrated query.,daily
+livebook-dev/livebook,Elixir,5620,478,4,Automate code & data workflows with interactive Elixir notebooks,daily
+phoenixframework/phoenix,Elixir,22657,3026,1,Peace of mind from prototype to production,daily
+phoenixframework/phoenix_live_view,Elixir,6650,1021,0,"Rich, real-time user experiences with server-rendered HTML",daily
+OffchainLabs/blockscout,Elixir,57,27,1,,daily
+algora-io/algora,Elixir,1022,47,2,Hire the top 1% OSS engineers,daily
+plausible/analytics,Elixir,23824,1316,8,"Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.",daily
+duffelhq/paginator,Elixir,814,100,0,Cursor-based pagination for Elixir Ecto,daily
+teslamate-org/teslamate,Elixir,7370,885,5,A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld],daily
+teslamate-org/teslamate,Elixir,7370,885,33,A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld],weekly
+kieraneglin/pinchflat,Elixir,4228,104,57,Your next YouTube media manager,weekly
+firezone/firezone,Elixir,8268,387,12,Enterprise-ready zero-trust access platform built on WireGuard®.,weekly
+blockscout/blockscout,Elixir,4301,2900,14,Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.,weekly
+supabase/realtime,Elixir,7416,404,10,"Broadcast, Presence, and Postgres Changes via WebSockets",weekly
+elixir-lang/expert,Elixir,1684,62,18,Official Elixir Language Server Protocol implementation,weekly
+plausible/analytics,Elixir,23824,1316,46,"Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.",weekly
+ntrepid8/ex_crypto,Elixir,157,51,2,Wrapper around the Erlang crypto module for Elixir.,weekly
+electric-sql/electric,Elixir,9538,286,41,Real-time sync for Postgres.,weekly
+ash-project/ash,Elixir,2210,343,9,"A declarative, extensible framework for building Elixir applications.",weekly
+livebook-dev/livebook,Elixir,5620,478,12,Automate code & data workflows with interactive Elixir notebooks,weekly
+phoenixframework/phoenix,Elixir,22657,3026,33,Peace of mind from prototype to production,weekly
+duffelhq/paginator,Elixir,814,100,1,Cursor-based pagination for Elixir Ecto,weekly
+phoenixframework/phoenix_live_view,Elixir,6650,1021,4,"Rich, real-time user experiences with server-rendered HTML",weekly
+OffchainLabs/blockscout,Elixir,57,27,2,,weekly
+phoenixframework/phoenix,Elixir,22657,3026,92,Peace of mind from prototype to production,monthly
+elixir-lang/elixir,Elixir,26129,3479,130,"Elixir is a dynamic, functional language for building scalable and maintainable applications",monthly
+electric-sql/electric,Elixir,9538,286,138,Real-time sync for Postgres.,monthly
+kieraneglin/pinchflat,Elixir,4228,104,210,Your next YouTube media manager,monthly
+plausible/analytics,Elixir,23824,1316,204,"Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.",monthly
+blockscout/blockscout,Elixir,4301,2900,51,Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.,monthly
+teslamate-org/teslamate,Elixir,7370,885,137,A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld],monthly
+duffelhq/paginator,Elixir,814,100,12,Cursor-based pagination for Elixir Ecto,monthly
+firezone/firezone,Elixir,8268,387,80,Enterprise-ready zero-trust access platform built on WireGuard®.,monthly
+sequinstream/sequin,Elixir,1802,101,60,"Postgres change data capture to streams, queues, and search indexes like Kafka, SQS, Elasticsearch, HTTP endpoints, and more",monthly
+phoenixframework/phoenix_live_view,Elixir,6650,1021,23,"Rich, real-time user experiences with server-rendered HTML",monthly
+ntrepid8/ex_crypto,Elixir,157,51,3,Wrapper around the Erlang crypto module for Elixir.,monthly
+elixir-ecto/ecto_sql,Elixir,633,332,3,SQL-based adapters for Ecto and database migrations,monthly
+supabase/realtime,Elixir,7416,404,79,"Broadcast, Presence, and Postgres Changes via WebSockets",monthly
+derpibooru/philomena,Elixir,245,57,9,Next-generation imageboard,monthly
+ash-project/ash,Elixir,2210,343,36,"A declarative, extensible framework for building Elixir applications.",monthly
+livebook-dev/livebook,Elixir,5620,478,52,Automate code & data workflows with interactive Elixir notebooks,monthly
+OffchainLabs/blockscout,Elixir,57,27,4,,monthly
+PostgREST/postgrest,Haskell,26195,1137,5,REST API for any Postgres database,daily
+jgm/pandoc,Haskell,40602,3696,17,Universal markup converter,daily
+koalaman/shellcheck,Haskell,38567,1891,8,"ShellCheck, a static analysis tool for shell scripts",daily
+krispo/awesome-haskell,Haskell,3262,176,1,"A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",daily
+b3nj5m1n/xdg-ninja,Haskell,3043,176,0,A shell script which checks your $HOME for unwanted files and directories.,daily
+simplex-chat/simplex-chat,Haskell,9978,523,10,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",daily
+hadolint/hadolint,Haskell,11734,478,4,"Dockerfile linter, validate inline bash, written in Haskell",daily
+mtolly/onyx,Haskell,228,18,0,"Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",daily
+PostgREST/postgrest,Haskell,26195,1137,59,REST API for any Postgres database,weekly
+koalaman/shellcheck,Haskell,38567,1891,67,"ShellCheck, a static analysis tool for shell scripts",weekly
+jgm/pandoc,Haskell,40602,3696,142,Universal markup converter,weekly
+krispo/awesome-haskell,Haskell,3262,176,7,"A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",weekly
+valderman/haste-compiler,Haskell,1508,107,9,A GHC-based Haskell to JavaScript compiler,weekly
+simplex-chat/simplex-chat,Haskell,9978,523,62,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",weekly
+koalaman/shellcheck,Haskell,38567,1891,226,"ShellCheck, a static analysis tool for shell scripts",monthly
+jgm/pandoc,Haskell,40602,3696,655,Universal markup converter,monthly
+NixOS/SC-election-2025,Haskell,29,360,1,2025 Election for the Steering Committee,monthly
+hadolint/hadolint,Haskell,11734,478,111,"Dockerfile linter, validate inline bash, written in Haskell",monthly
+kmonad/kmonad,Haskell,4828,330,58,An advanced keyboard manager,monthly
+PostgREST/postgrest,Haskell,26195,1137,263,REST API for any Postgres database,monthly
+unisonweb/unison,Haskell,6412,291,193,A friendly programming language from the future,monthly
+carp-lang/Carp,Haskell,5760,180,28,"A statically typed lisp, without a GC, for real-time applications.",monthly
+simplex-chat/simplex-chat,Haskell,9978,523,187,"SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",monthly
+HigherOrderCO/Bend2-old,Haskell,238,14,22,Bend2 - WIP,monthly
+maralorn/nix-output-monitor,Haskell,1313,42,37,Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.,monthly
+elm/compiler,Haskell,7709,668,20,"Compiler for Elm, a functional language for reliable webapps.",monthly
+mtolly/onyx,Haskell,228,18,6,"Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",monthly
+logseq/logseq,Clojure,39664,2390,17,"A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267",daily
+cognitect-labs/test-runner,Clojure,301,36,0,A test runner for clojure.test,daily
+penpot/penpot,Clojure,43025,2369,34,Penpot: The open-source design tool for design and code collaboration,daily
+metabase/metabase,Clojure,44813,6057,18,The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊,daily
+functional-koans/clojure-koans,Clojure,3794,2144,0,A set of exercises for learning Clojure,daily
+tonsky/FiraCode,Clojure,80672,3174,15,Free monospaced font with programming ligatures,daily
+penpot/penpot,Clojure,43025,2369,1407,Penpot: The open-source design tool for design and code collaboration,weekly
+metabase/metabase,Clojure,44813,6057,74,The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊,weekly
+logseq/logseq,Clojure,39664,2390,142,"A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267",weekly
+redplanetlabs/agent-o-rama,Clojure,111,14,6,"End-to-end LLM agent platform for Java and Clojure for building, tracing, testing, and monitoring agents with integrated storage and one-click deployment. Inspired by LangGraph/LangSmith.",weekly
+weavejester/hiccup,Clojure,2833,175,6,Fast library for rendering HTML in Clojure,weekly
+cognitect-labs/test-runner,Clojure,301,36,0,A test runner for clojure.test,weekly
+tonsky/FiraCode,Clojure,80672,3174,73,Free monospaced font with programming ligatures,weekly
+clj-kondo/clj-kondo,Clojure,1800,293,0,Static analyzer and linter for Clojure code that sparks joy,weekly
+metabase/metabase,Clojure,44813,6057,452,The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊,monthly
+penpot/penpot,Clojure,43025,2369,2106,Penpot: The open-source design tool for design and code collaboration,monthly
+logseq/logseq,Clojure,39664,2390,550,"A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267",monthly
+tonsky/FiraCode,Clojure,80672,3174,275,Free monospaced font with programming ligatures,monthly
+cognitect-labs/test-runner,Clojure,301,36,2,A test runner for clojure.test,monthly
+status-im/status-mobile,Clojure,4006,1005,13,"a free (libre) open source, mobile OS for Ethereum",monthly
+instantdb/instant,Clojure,9493,313,122,Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.,monthly
+DanTheMan827/ios-app-signer,Objective-C,6167,1132,4,This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.,daily
+adjust/ios_sdk,Objective-C,662,310,0,This is the iOS SDK of,daily
+SDWebImage/SDWebImage,Objective-C,25847,6001,2,Asynchronous image downloader with cache support as a UIImageView category,daily
+openid/AppAuth-iOS,Objective-C,1952,835,1,iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.,daily
+google/GoogleSignIn-iOS,Objective-C,671,246,1,Enables iOS and macOS apps to sign in with Google.,daily
+sparkle-project/Sparkle,Objective-C,8319,1085,7,A software update framework for macOS,daily
+microsoftconnect/ms-intune-app-sdk-ios,Objective-C,109,32,0,Intune App SDK for iOS enables data protection and mobile app management features in iOS mobile apps with Microsoft Intune,daily
+realm/realm-swift,Objective-C,16567,2207,0,Realm is a mobile database: a replacement for Core Data & SQLite,daily
+google/promises,Objective-C,3834,305,0,Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.,daily
+google/GoogleDataTransport,Objective-C,53,37,0,,daily
+google/GoogleUtilities,Objective-C,123,58,1,,daily
+google/gtm-session-fetcher,Objective-C,267,165,0,Google Toolbox for Mac - Session Fetcher,daily
+google/app-check,Objective-C,32,8,0,Google-internal core components of Firebase App Check.,daily
+BranchMetrics/ios-branch-deep-linking-attribution,Objective-C,748,242,0,"The Branch iOS SDK for deep linking and attribution. Branch helps mobile apps grow with deep links / deeplinks that power paid acquisition and re-engagement campaigns, referral programs, content sharing, deep linked emails, smart banners, custom user onboarding, and more.",daily
+braze-inc/braze-swift-sdk,Objective-C,66,22,0,"Braze SDK for the Apple ecosystem, including: iOS, macOS, iPadOS, visionOS, tvOS",daily
+facebookincubator/SocketRocket,Objective-C,9614,2017,0,A conforming Objective-C WebSocket client library.,daily
+CocoaLumberjack/CocoaLumberjack,Objective-C,13312,2294,0,"A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS",daily
+segmentio/analytics-ios,Objective-C,418,329,0,The hassle-free way to integrate analytics into any iOS application.,daily
+AliSoftware/OHHTTPStubs,Objective-C,5062,600,0,"Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!",daily
+noah-nuebling/mac-mouse-fix,Objective-C,8443,245,36,Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!,weekly
+DanTheMan827/ios-app-signer,Objective-C,6167,1132,9,This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.,weekly
+benbaker76/Hackintool,Objective-C,3345,260,6,The Swiss army knife of vanilla Hackintoshing,weekly
+opa334/TrollStore,Objective-C,20506,1386,37,Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple,weekly
+nakst/gf,Objective-C,2791,80,15,A GDB frontend for Lïnux.,weekly
+adjust/ios_sdk,Objective-C,662,310,0,This is the iOS SDK of,weekly
+google/GoogleSignIn-iOS,Objective-C,671,246,5,Enables iOS and macOS apps to sign in with Google.,weekly
+HeshamMegid/HMSegmentedControl,Objective-C,4110,823,7,A highly customizable drop-in replacement for UISegmentedControl.,weekly
+gnachman/iTerm2,Objective-C,16597,1264,31,iTerm2 is a terminal emulator for Mac OS X that does amazing things.,weekly
+google/GoogleDataTransport,Objective-C,53,37,0,,weekly
+google/promises,Objective-C,3834,305,0,Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.,weekly
+google/gtm-session-fetcher,Objective-C,267,165,0,Google Toolbox for Mac - Session Fetcher,weekly
+google/GoogleUtilities,Objective-C,123,58,0,,weekly
+google/app-check,Objective-C,32,8,1,Google-internal core components of Firebase App Check.,weekly
+uber/ios-snapshot-test-case,Objective-C,1840,221,2,Snapshot view unit tests for iOS,weekly
+Instagram/IGListKit,Objective-C,13050,1544,2,A data-driven UICollectionView framework for building fast and flexible lists.,weekly
+button/DeepLinkKit,Objective-C,3461,283,0,"A splendid route-matching, block-based way to handle your deep links.",weekly
+AliSoftware/OHHTTPStubs,Objective-C,5062,600,1,"Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!",weekly
+CocoaLumberjack/CocoaLumberjack,Objective-C,13312,2294,3,"A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS",weekly
+openid/AppAuth-iOS,Objective-C,1952,835,7,iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.,weekly
+benbaker76/Hackintool,Objective-C,3345,260,21,The Swiss army knife of vanilla Hackintoshing,monthly
+sunnyyoung/WeChatTweak-macOS,Objective-C,12617,1504,58,A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨,monthly
+uber/ios-snapshot-test-case,Objective-C,1840,221,9,Snapshot view unit tests for iOS,monthly
+SDWebImage/SDWebImage,Objective-C,25847,6001,59,Asynchronous image downloader with cache support as a UIImageView category,monthly
+google/GoogleUtilities,Objective-C,123,58,2,,monthly
+google/promises,Objective-C,3834,305,1,Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.,monthly
+google/GoogleDataTransport,Objective-C,53,37,0,,monthly
+adjust/ios_sdk,Objective-C,662,310,3,This is the iOS SDK of,monthly
+Flipboard/FLAnimatedImage,Objective-C,7962,1214,1,Performant animated GIF engine for iOS,monthly
+Instagram/IGListKit,Objective-C,13050,1544,14,A data-driven UICollectionView framework for building fast and flexible lists.,monthly
+DanTheMan827/ios-app-signer,Objective-C,6167,1132,150,This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.,monthly
+google/app-check,Objective-C,32,8,2,Google-internal core components of Firebase App Check.,monthly
+google/gtm-session-fetcher,Objective-C,267,165,3,Google Toolbox for Mac - Session Fetcher,monthly
+thii/DTTJailbreakDetection,Objective-C,300,57,0,A jailbreak detection library for iOS,monthly
+braze-inc/braze-swift-sdk,Objective-C,66,22,3,"Braze SDK for the Apple ecosystem, including: iOS, macOS, iPadOS, visionOS, tvOS",monthly
+button/DeepLinkKit,Objective-C,3461,283,2,"A splendid route-matching, block-based way to handle your deep links.",monthly
+cameroncooke/AXe,Objective-C,502,15,14,AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.,monthly
+onfido/onfido-ios-sdk,Objective-C,104,58,1,A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.,monthly
+CocoaLumberjack/CocoaLumberjack,Objective-C,13312,2294,14,"A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS",monthly
+youtube/youtube-ios-player-helper,Objective-C,1691,702,7,Lightweight helper library that allows iOS developers to add inline playback of YouTube videos through a WebView,monthly
+jdg/MBProgressHUD,Objective-C,16002,3579,5,MBProgressHUD + Customizations,monthly
+OpenZeppelin/openzeppelin-contracts,Solidity,26785,12325,3,OpenZeppelin Contracts is a library for secure smart contract development.,daily
+Uniswap/v4-core,Solidity,2375,1225,0,🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4,daily
+AmazingAng/WTF-Solidity,Solidity,13632,2361,8,WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy,daily
+transmissions11/solmate,Solidity,4239,696,1,"Modern, opinionated, and gas optimized building blocks for smart contract development.",daily
+morpho-org/vault-v2,Solidity,64,21,1,Morpho Vault V2,daily
+dapphub/ds-test,Solidity,232,74,0,"Assertions, equality checks and other test helpers",daily
+foundry-rs/forge-std,Solidity,983,433,0,A collection of helpful contracts and libraries for use with Forge and Foundry,daily
+a16z/erc4626-tests,Solidity,191,30,1,ERC4626 Property Tests,daily
+Vectorized/solady,Solidity,3197,447,2,Optimized Solidity snippets.,daily
+ethereum/ERCs,Solidity,604,830,0,The Ethereum Request for Comment repository,daily
+PaulRBerg/prb-math,Solidity,976,139,0,Solidity library for advanced fixed-point math,daily
+circlefin/evm-cctp-contracts,Solidity,175,107,0,Official repository for all EVM-compatible smart contracts used by the Cross-Chain Transfer Protocol,daily
+Arachnid/solidity-stringutils,Solidity,1158,378,0,Basic string utilities for Solidity,daily
+OpenZeppelin/openzeppelin-foundry-upgrades,Solidity,238,40,0,Foundry library for deploying and managing upgradeable contracts,daily
+Uniswap/permit2,Solidity,890,265,0,🔑🔑🔑 next generation token approvals mechanism,daily
+matter-labs/era-contracts,Solidity,526,395,0,Smart Contract Submodule For zkSync Era,daily
+MetaMask/delegation-framework,Solidity,166,83,0,The contracts that power the Delegation Framework,daily
+OpenZeppelin/openzeppelin-contracts,Solidity,26785,12325,30,OpenZeppelin Contracts is a library for secure smart contract development.,weekly
+Uniswap/v4-core,Solidity,2375,1225,5,🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4,weekly
+dapphub/ds-test,Solidity,232,74,0,"Assertions, equality checks and other test helpers",weekly
+Arachnid/solidity-stringutils,Solidity,1158,378,0,Basic string utilities for Solidity,weekly
+Layr-Labs/eigenlayer-middleware,Solidity,111,117,0,,weekly
+Layr-Labs/eigenlayer-contracts,Solidity,698,457,0,Contracts of EigenLayer,weekly
+a16z/erc4626-tests,Solidity,191,30,1,ERC4626 Property Tests,weekly
+morpho-org/vault-v2,Solidity,64,21,3,Morpho Vault V2,weekly
+succinctlabs/sp1-contracts,Solidity,124,41,0,Smart contracts for onchain verification of SP1.,weekly
+transmissions11/solmate,Solidity,4239,696,4,"Modern, opinionated, and gas optimized building blocks for smart contract development.",weekly
+foundry-rs/forge-std,Solidity,983,433,3,A collection of helpful contracts and libraries for use with Forge and Foundry,weekly
+OpenZeppelin/openzeppelin-foundry-upgrades,Solidity,238,40,2,Foundry library for deploying and managing upgradeable contracts,weekly
+GNSPS/solidity-bytes-utils,Solidity,556,113,0,Utility Solidity library composed of basic operations for tightly packed bytes arrays,weekly
+aerodrome-finance/contracts,Solidity,99,92,0,Aerodrome Finance Smart Contracts,weekly
+foundry-rs/book,Solidity,915,881,4,"A book on all things Foundry, available at https://book.getfoundry.sh.",weekly
+AmazingAng/WTF-Solidity,Solidity,13632,2361,191,WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy,monthly
+Vectorized/solady,Solidity,3197,447,56,Optimized Solidity snippets.,monthly
+base/contract-deployments,Solidity,427,331,40,,monthly
+aave-dao/aave-v3-origin,Solidity,247,158,11,Aave v3.5 protocol,monthly
+ethereum/ERCs,Solidity,604,830,41,The Ethereum Request for Comment repository,monthly
+smartcontractkit/Web3_tutorial_Chinese,Solidity,1250,341,96,,monthly
+Uniswap/v2-periphery,Solidity,1239,1788,7,🎚 Peripheral smart contracts for interacting with Uniswap V2,monthly
+transmissions11/solmate,Solidity,4239,696,22,"Modern, opinionated, and gas optimized building blocks for smart contract development.",monthly
+The-Web3-Compass/30-days-of-solidity-submissions,Solidity,25,296,1,The offical repo for submitting contracts for the 30 days of solidity,monthly
+OpenZeppelin/openzeppelin-contracts,Solidity,26785,12325,140,OpenZeppelin Contracts is a library for secure smart contract development.,monthly
+centrifuge/protocol,Solidity,38,16,4,Centrifuge Protocol: The open infrastructure for onchain asset management,monthly
+Uniswap/permit2,Solidity,890,265,16,🔑🔑🔑 next generation token approvals mechanism,monthly
+a16z/erc4626-tests,Solidity,191,30,3,ERC4626 Property Tests,monthly
+foundry-rs/forge-std,Solidity,983,433,18,A collection of helpful contracts and libraries for use with Forge and Foundry,monthly
+mztacat/Base,Solidity,487,398,18,,monthly
